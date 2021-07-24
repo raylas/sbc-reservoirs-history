@@ -1,0 +1,52 @@
+name: scrape
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+  - cron: "*/20 * * * *"  
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    env:
+      SESSION_TOKEN: gepvtn1aikm8hun5q7ubaqhihu
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+
+    - name: Fetch and process latest data
+      run: |-
+        curl 'https://rain.cosbpw.net/export/map/geojson/?method=sensors&sensor_class=94' \
+        -H 'Cookie: WEBAPP_SESSION='$SESSION_TOKEN'' \
+        | jq '.features[] |
+          { 
+            name: .properties.name, 
+            site: .properties.site, 
+            device: .properties.device, 
+            site_id: .properties.site_id, 
+            device_id: .properties.device_id, 
+            site_alias: .properties.site_alias, 
+            device_alias: .properties.device_alias, 
+            coordinates: .geometry.coordinates, 
+            sensor: .properties.sensor, 
+            sensor_class: .properties.sensor_class, 
+            type: .properties.type, 
+            status: .properties.status, 
+            last_value: .properties.last_value, 
+            unit: .properties.unit, 
+            time: .properties.time, 
+            last_time: .properties.last_time, 
+            last_time_z: .properties.last_time_z, 
+            unix_timestamp: .properties.unix_timestamp 
+          }' \
+        | jq --slurp '.' > reservoirs.json
+
+    - name: Commit and push if data has changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
