@@ -10,7 +10,7 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     env:
-      SESSION_TOKEN: gepvtn1aikm8hun5q7ubaqhihu
+      SESSION_TOKEN: e2rbfipnj91k45l20vdpioe5i0
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
