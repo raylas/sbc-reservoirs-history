@@ -9,16 +9,15 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
-    env:
-      SESSION_TOKEN: e2rbfipnj91k45l20vdpioe5i0
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
 
     - name: Fetch and process latest data
       run: |-
-        curl 'https://rain.cosbpw.net/export/map/geojson/?method=sensors&sensor_class=94' \
-        -H 'Cookie: WEBAPP_SESSION='$SESSION_TOKEN'' \
+        curl -b cookie 'https://rain.cosbpw.net/map/'
+        curl -c cookie -L 'https://rain.cosbpw.net/export/map/geojson/?method=sensors&sensor_class=94' \
+        -H 'Content-Type: application/json' \
         | jq '.features[] |
           { 
             name: .properties.name, 
