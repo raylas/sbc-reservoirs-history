@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 597.26,
+    "last_value": 597.25,
     "unit": "ft",
-    "time": 1629779400,
-    "last_time": "2021-08-23 21:30:00",
-    "last_time_z": "2021-08-24T04:30:00+0000",
-    "unix_timestamp": 1629782902
+    "time": 1629783000,
+    "last_time": "2021-08-23 22:30:00",
+    "last_time_z": "2021-08-24T05:30:00+0000",
+    "unix_timestamp": 1629784001
   },
   {
     "name": "Cachuma Reservoir",
@@ -38,12 +38,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 715.79,
+    "last_value": 715.78,
     "unit": "ft",
-    "time": 1629781265,
-    "last_time": "2021-08-23 22:01:05",
-    "last_time_z": "2021-08-24T05:01:05+0000",
-    "unix_timestamp": 1629782902
+    "time": 1629783966,
+    "last_time": "2021-08-23 22:46:06",
+    "last_time_z": "2021-08-24T05:46:06+0000",
+    "unix_timestamp": 1629784001
   },
   {
     "name": "Casitas Dam",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 489.29,
+    "last_value": 489.35,
     "unit": "ft",
-    "time": 1629777600,
-    "last_time": "2021-08-23 21:00:00",
-    "last_time_z": "2021-08-24T04:00:00+0000",
-    "unix_timestamp": 1629782902
+    "time": 1629781200,
+    "last_time": "2021-08-23 22:00:00",
+    "last_time_z": "2021-08-24T05:00:00+0000",
+    "unix_timestamp": 1629784001
   },
   {
     "name": "Getty Basin",
@@ -89,7 +89,7 @@
     "time": 1629780073,
     "last_time": "2021-08-23 21:41:13",
     "last_time_z": "2021-08-24T04:41:13+0000",
-    "unix_timestamp": 1629782902
+    "unix_timestamp": 1629784001
   },
   {
     "name": "Gibraltar Reservoir",
@@ -109,10 +109,10 @@
     "status": 1,
     "last_value": "1,372.80",
     "unit": "ft",
-    "time": 1629781200,
-    "last_time": "2021-08-23 22:00:00",
-    "last_time_z": "2021-08-24T05:00:00+0000",
-    "unix_timestamp": 1629782902
+    "time": 1629783000,
+    "last_time": "2021-08-23 22:30:00",
+    "last_time_z": "2021-08-24T05:30:00+0000",
+    "unix_timestamp": 1629784001
   },
   {
     "name": "Jameson Reservoir",
@@ -135,7 +135,7 @@
     "time": 1629780921,
     "last_time": "2021-08-23 21:55:21",
     "last_time_z": "2021-08-24T04:55:21+0000",
-    "unix_timestamp": 1629782902
+    "unix_timestamp": 1629784001
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -155,10 +155,10 @@
     "status": 1,
     "last_value": 471.68,
     "unit": "ft",
-    "time": 1629782431,
-    "last_time": "2021-08-23 22:20:31",
-    "last_time_z": "2021-08-24T05:20:31+0000",
-    "unix_timestamp": 1629782902
+    "time": 1629783331,
+    "last_time": "2021-08-23 22:35:31",
+    "last_time_z": "2021-08-24T05:35:31+0000",
+    "unix_timestamp": 1629784001
   },
   {
     "name": "Twitchell Reservoir",
@@ -181,6 +181,6 @@
     "time": 1629774482,
     "last_time": "2021-08-23 20:08:02",
     "last_time_z": "2021-08-24T03:08:02+0000",
-    "unix_timestamp": 1629782902
+    "unix_timestamp": 1629784001
   }
 ]
