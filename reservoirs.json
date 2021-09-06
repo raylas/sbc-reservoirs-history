@@ -20,7 +20,7 @@
     "time": 1630963800,
     "last_time": "2021-09-06 14:30:00",
     "last_time_z": "2021-09-06T21:30:00+0000",
-    "unix_timestamp": 1630964798
+    "unix_timestamp": 1630966613
   },
   {
     "name": "Cachuma Reservoir",
@@ -38,12 +38,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 715,
+    "last_value": 715.01,
     "unit": "ft",
-    "time": 1630964763,
-    "last_time": "2021-09-06 14:46:03",
-    "last_time_z": "2021-09-06T21:46:03+0000",
-    "unix_timestamp": 1630964798
+    "time": 1630966563,
+    "last_time": "2021-09-06 15:16:03",
+    "last_time_z": "2021-09-06T22:16:03+0000",
+    "unix_timestamp": 1630966613
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1630962000,
     "last_time": "2021-09-06 14:00:00",
     "last_time_z": "2021-09-06T21:00:00+0000",
-    "unix_timestamp": 1630964798
+    "unix_timestamp": 1630966613
   },
   {
     "name": "Getty Basin",
@@ -89,7 +89,7 @@
     "time": 1630957298,
     "last_time": "2021-09-06 12:41:38",
     "last_time_z": "2021-09-06T19:41:38+0000",
-    "unix_timestamp": 1630964798
+    "unix_timestamp": 1630966613
   },
   {
     "name": "Gibraltar Reservoir",
@@ -109,10 +109,10 @@
     "status": 1,
     "last_value": "1,372.49",
     "unit": "ft",
-    "time": 1630963800,
-    "last_time": "2021-09-06 14:30:00",
-    "last_time_z": "2021-09-06T21:30:00+0000",
-    "unix_timestamp": 1630964798
+    "time": 1630965600,
+    "last_time": "2021-09-06 15:00:00",
+    "last_time_z": "2021-09-06T22:00:00+0000",
+    "unix_timestamp": 1630966613
   },
   {
     "name": "Jameson Reservoir",
@@ -135,7 +135,7 @@
     "time": 1630960608,
     "last_time": "2021-09-06 13:36:48",
     "last_time_z": "2021-09-06T20:36:48+0000",
-    "unix_timestamp": 1630964798
+    "unix_timestamp": 1630966613
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -153,11 +153,11 @@
     "sensor_class": 94,
     "type": "Reservoir Elevation",
     "status": 1,
-    "last_value": 470.91,
+    "last_value": 470.9,
     "unit": "ft",
-    "time": 1630964131,
-    "last_time": "2021-09-06 14:35:31",
-    "last_time_z": "2021-09-06T21:35:31+0000",
-    "unix_timestamp": 1630964798
+    "time": 1630965931,
+    "last_time": "2021-09-06 15:05:31",
+    "last_time_z": "2021-09-06T22:05:31+0000",
+    "unix_timestamp": 1630966613
   }
 ]
