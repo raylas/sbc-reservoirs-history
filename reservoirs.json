@@ -20,7 +20,7 @@
     "time": 1634049000,
     "last_time": "2021-10-12 07:30:00",
     "last_time_z": "2021-10-12T14:30:00+0000",
-    "unix_timestamp": 1634053080
+    "unix_timestamp": 1634053873
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 712.8,
     "unit": "ft",
-    "time": 1634052666,
-    "last_time": "2021-10-12 08:31:06",
-    "last_time_z": "2021-10-12T15:31:06+0000",
-    "unix_timestamp": 1634053080
+    "time": 1634053566,
+    "last_time": "2021-10-12 08:46:06",
+    "last_time_z": "2021-10-12T15:46:06+0000",
+    "unix_timestamp": 1634053873
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1634050800,
     "last_time": "2021-10-12 08:00:00",
     "last_time_z": "2021-10-12T15:00:00+0000",
-    "unix_timestamp": 1634053080
+    "unix_timestamp": 1634053873
   },
   {
     "name": "Getty Basin",
@@ -89,7 +89,7 @@
     "time": 1634046172,
     "last_time": "2021-10-12 06:42:52",
     "last_time_z": "2021-10-12T13:42:52+0000",
-    "unix_timestamp": 1634053080
+    "unix_timestamp": 1634053873
   },
   {
     "name": "Gibraltar Reservoir",
@@ -112,7 +112,7 @@
     "time": 1634049900,
     "last_time": "2021-10-12 07:45:00",
     "last_time_z": "2021-10-12T14:45:00+0000",
-    "unix_timestamp": 1634053080
+    "unix_timestamp": 1634053873
   },
   {
     "name": "Jameson Reservoir",
@@ -135,7 +135,7 @@
     "time": 1634050962,
     "last_time": "2021-10-12 08:02:42",
     "last_time_z": "2021-10-12T15:02:42+0000",
-    "unix_timestamp": 1634053080
+    "unix_timestamp": 1634053873
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -153,11 +153,11 @@
     "sensor_class": 94,
     "type": "Reservoir Elevation",
     "status": 1,
-    "last_value": 469,
+    "last_value": 468.99,
     "unit": "ft",
-    "time": 1634052030,
-    "last_time": "2021-10-12 08:20:30",
-    "last_time_z": "2021-10-12T15:20:30+0000",
-    "unix_timestamp": 1634053080
+    "time": 1634052930,
+    "last_time": "2021-10-12 08:35:30",
+    "last_time_z": "2021-10-12T15:35:30+0000",
+    "unix_timestamp": 1634053873
   }
 ]
