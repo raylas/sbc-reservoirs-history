@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 597.4,
+    "last_value": 597.43,
     "unit": "ft",
-    "time": 1639499400,
-    "last_time": "2021-12-14 08:30:00",
-    "last_time_z": "2021-12-14T16:30:00+0000",
-    "unix_timestamp": 1639503276
+    "time": 1639503000,
+    "last_time": "2021-12-14 09:30:00",
+    "last_time_z": "2021-12-14T17:30:00+0000",
+    "unix_timestamp": 1639504011
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 711.59,
     "unit": "ft",
-    "time": 1639503064,
-    "last_time": "2021-12-14 09:31:04",
-    "last_time_z": "2021-12-14T17:31:04+0000",
-    "unix_timestamp": 1639503276
+    "time": 1639503964,
+    "last_time": "2021-12-14 09:46:04",
+    "last_time_z": "2021-12-14T17:46:04+0000",
+    "unix_timestamp": 1639504011
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1639501200,
     "last_time": "2021-12-14 09:00:00",
     "last_time_z": "2021-12-14T17:00:00+0000",
-    "unix_timestamp": 1639503276
+    "unix_timestamp": 1639504011
   },
   {
     "name": "Getty Basin",
@@ -84,12 +84,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 169.96,
+    "last_value": 170.11,
     "unit": "ft",
-    "time": 1639503002,
-    "last_time": "2021-12-14 09:30:02",
-    "last_time_z": "2021-12-14T17:30:02+0000",
-    "unix_timestamp": 1639503276
+    "time": 1639503902,
+    "last_time": "2021-12-14 09:45:02",
+    "last_time_z": "2021-12-14T17:45:02+0000",
+    "unix_timestamp": 1639504011
   },
   {
     "name": "Gibraltar Reservoir",
@@ -109,10 +109,10 @@
     "status": 1,
     "last_value": "1,372.73",
     "unit": "ft",
-    "time": 1639502100,
-    "last_time": "2021-12-14 09:15:00",
-    "last_time_z": "2021-12-14T17:15:00+0000",
-    "unix_timestamp": 1639503276
+    "time": 1639503000,
+    "last_time": "2021-12-14 09:30:00",
+    "last_time_z": "2021-12-14T17:30:00+0000",
+    "unix_timestamp": 1639504011
   },
   {
     "name": "Jameson Reservoir",
@@ -135,6 +135,6 @@
     "time": 1639500875,
     "last_time": "2021-12-14 08:54:35",
     "last_time_z": "2021-12-14T16:54:35+0000",
-    "unix_timestamp": 1639503276
+    "unix_timestamp": 1639504011
   }
 ]
