@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 597.58,
     "unit": "ft",
-    "time": 1639557000,
-    "last_time": "2021-12-15 00:30:00",
-    "last_time_z": "2021-12-15T08:30:00+0000",
-    "unix_timestamp": 1639560936
+    "time": 1639560600,
+    "last_time": "2021-12-15 01:30:00",
+    "last_time_z": "2021-12-15T09:30:00+0000",
+    "unix_timestamp": 1639561638
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 711.6,
     "unit": "ft",
-    "time": 1639560664,
-    "last_time": "2021-12-15 01:31:04",
-    "last_time_z": "2021-12-15T09:31:04+0000",
-    "unix_timestamp": 1639560936
+    "time": 1639561564,
+    "last_time": "2021-12-15 01:46:04",
+    "last_time_z": "2021-12-15T09:46:04+0000",
+    "unix_timestamp": 1639561638
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1639558800,
     "last_time": "2021-12-15 01:00:00",
     "last_time_z": "2021-12-15T09:00:00+0000",
-    "unix_timestamp": 1639560936
+    "unix_timestamp": 1639561638
   },
   {
     "name": "Getty Basin",
@@ -89,7 +89,7 @@
     "time": 1639560604,
     "last_time": "2021-12-15 01:30:04",
     "last_time_z": "2021-12-15T09:30:04+0000",
-    "unix_timestamp": 1639560936
+    "unix_timestamp": 1639561638
   },
   {
     "name": "Gibraltar Reservoir",
@@ -107,12 +107,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,373.08",
+    "last_value": "1,373.09",
     "unit": "ft",
-    "time": 1639559700,
-    "last_time": "2021-12-15 01:15:00",
-    "last_time_z": "2021-12-15T09:15:00+0000",
-    "unix_timestamp": 1639560936
+    "time": 1639560600,
+    "last_time": "2021-12-15 01:30:00",
+    "last_time_z": "2021-12-15T09:30:00+0000",
+    "unix_timestamp": 1639561638
   },
   {
     "name": "Jameson Reservoir",
@@ -135,6 +135,6 @@
     "time": 1639558775,
     "last_time": "2021-12-15 00:59:35",
     "last_time_z": "2021-12-15T08:59:35+0000",
-    "unix_timestamp": 1639560936
+    "unix_timestamp": 1639561638
   }
 ]
