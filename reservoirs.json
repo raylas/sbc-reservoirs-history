@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 597.69,
+    "last_value": 597.7,
     "unit": "ft",
-    "time": 1640269800,
-    "last_time": "2021-12-23 06:30:00",
-    "last_time_z": "2021-12-23T14:30:00+0000",
-    "unix_timestamp": 1640273949
+    "time": 1640273400,
+    "last_time": "2021-12-23 07:30:00",
+    "last_time_z": "2021-12-23T15:30:00+0000",
+    "unix_timestamp": 1640274788
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 711.55,
     "unit": "ft",
-    "time": 1640273464,
-    "last_time": "2021-12-23 07:31:04",
-    "last_time_z": "2021-12-23T15:31:04+0000",
-    "unix_timestamp": 1640273949
+    "time": 1640274364,
+    "last_time": "2021-12-23 07:46:04",
+    "last_time_z": "2021-12-23T15:46:04+0000",
+    "unix_timestamp": 1640274788
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1640271600,
     "last_time": "2021-12-23 07:00:00",
     "last_time_z": "2021-12-23T15:00:00+0000",
-    "unix_timestamp": 1640273949
+    "unix_timestamp": 1640274788
   },
   {
     "name": "Getty Basin",
@@ -89,7 +89,7 @@
     "time": 1640259022,
     "last_time": "2021-12-23 03:30:22",
     "last_time_z": "2021-12-23T11:30:22+0000",
-    "unix_timestamp": 1640273949
+    "unix_timestamp": 1640274788
   },
   {
     "name": "Gibraltar Reservoir",
@@ -109,10 +109,10 @@
     "status": 1,
     "last_value": "1,373.34",
     "unit": "ft",
-    "time": 1640272500,
-    "last_time": "2021-12-23 07:15:00",
-    "last_time_z": "2021-12-23T15:15:00+0000",
-    "unix_timestamp": 1640273949
+    "time": 1640273400,
+    "last_time": "2021-12-23 07:30:00",
+    "last_time_z": "2021-12-23T15:30:00+0000",
+    "unix_timestamp": 1640274788
   },
   {
     "name": "Jameson Reservoir",
@@ -135,6 +135,6 @@
     "time": 1640271660,
     "last_time": "2021-12-23 07:01:00",
     "last_time_z": "2021-12-23T15:01:00+0000",
-    "unix_timestamp": 1640273949
+    "unix_timestamp": 1640274788
   }
 ]
