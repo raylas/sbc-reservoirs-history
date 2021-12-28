@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 600.03,
     "unit": "ft",
-    "time": 1640658600,
-    "last_time": "2021-12-27 18:30:00",
-    "last_time_z": "2021-12-28T02:30:00+0000",
-    "unix_timestamp": 1640662496
+    "time": 1640662200,
+    "last_time": "2021-12-27 19:30:00",
+    "last_time_z": "2021-12-28T03:30:00+0000",
+    "unix_timestamp": 1640663291
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 712.11,
     "unit": "ft",
-    "time": 1640662264,
-    "last_time": "2021-12-27 19:31:04",
-    "last_time_z": "2021-12-28T03:31:04+0000",
-    "unix_timestamp": 1640662496
+    "time": 1640663164,
+    "last_time": "2021-12-27 19:46:04",
+    "last_time_z": "2021-12-28T03:46:04+0000",
+    "unix_timestamp": 1640663291
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1640660400,
     "last_time": "2021-12-27 19:00:00",
     "last_time_z": "2021-12-28T03:00:00+0000",
-    "unix_timestamp": 1640662496
+    "unix_timestamp": 1640663291
   },
   {
     "name": "Getty Basin",
@@ -89,7 +89,7 @@
     "time": 1640660433,
     "last_time": "2021-12-27 19:00:33",
     "last_time_z": "2021-12-28T03:00:33+0000",
-    "unix_timestamp": 1640662496
+    "unix_timestamp": 1640663291
   },
   {
     "name": "Gibraltar Reservoir",
@@ -107,12 +107,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,381.90",
+    "last_value": "1,381.91",
     "unit": "ft",
-    "time": 1640661300,
-    "last_time": "2021-12-27 19:15:00",
-    "last_time_z": "2021-12-28T03:15:00+0000",
-    "unix_timestamp": 1640662496
+    "time": 1640662200,
+    "last_time": "2021-12-27 19:30:00",
+    "last_time_z": "2021-12-28T03:30:00+0000",
+    "unix_timestamp": 1640663291
   },
   {
     "name": "Jameson Reservoir",
@@ -135,6 +135,6 @@
     "time": 1640662480,
     "last_time": "2021-12-27 19:34:40",
     "last_time_z": "2021-12-28T03:34:40+0000",
-    "unix_timestamp": 1640662496
+    "unix_timestamp": 1640663291
   }
 ]
