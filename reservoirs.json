@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 599.92,
     "unit": "ft",
-    "time": 1640939400,
-    "last_time": "2021-12-31 00:30:00",
-    "last_time_z": "2021-12-31T08:30:00+0000",
-    "unix_timestamp": 1640943360
+    "time": 1640943000,
+    "last_time": "2021-12-31 01:30:00",
+    "last_time_z": "2021-12-31T09:30:00+0000",
+    "unix_timestamp": 1640944060
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 712.23,
     "unit": "ft",
-    "time": 1640943024,
-    "last_time": "2021-12-31 01:30:24",
-    "last_time_z": "2021-12-31T09:30:24+0000",
-    "unix_timestamp": 1640943360
+    "time": 1640943963,
+    "last_time": "2021-12-31 01:46:03",
+    "last_time_z": "2021-12-31T09:46:03+0000",
+    "unix_timestamp": 1640944060
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1640941200,
     "last_time": "2021-12-31 01:00:00",
     "last_time_z": "2021-12-31T09:00:00+0000",
-    "unix_timestamp": 1640943360
+    "unix_timestamp": 1640944060
   },
   {
     "name": "Getty Basin",
@@ -89,7 +89,7 @@
     "time": 1640936741,
     "last_time": "2021-12-30 23:45:41",
     "last_time_z": "2021-12-31T07:45:41+0000",
-    "unix_timestamp": 1640943360
+    "unix_timestamp": 1640944060
   },
   {
     "name": "Gibraltar Reservoir",
@@ -107,12 +107,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,384.50",
+    "last_value": "1,384.51",
     "unit": "ft",
-    "time": 1640942100,
-    "last_time": "2021-12-31 01:15:00",
-    "last_time_z": "2021-12-31T09:15:00+0000",
-    "unix_timestamp": 1640943360
+    "time": 1640943000,
+    "last_time": "2021-12-31 01:30:00",
+    "last_time_z": "2021-12-31T09:30:00+0000",
+    "unix_timestamp": 1640944060
   },
   {
     "name": "Jameson Reservoir",
@@ -135,6 +135,6 @@
     "time": 1640941121,
     "last_time": "2021-12-31 00:58:41",
     "last_time_z": "2021-12-31T08:58:41+0000",
-    "unix_timestamp": 1640943360
+    "unix_timestamp": 1640944060
   }
 ]
