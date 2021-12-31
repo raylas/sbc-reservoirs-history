@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 599.9,
+    "last_value": 599.91,
     "unit": "ft",
-    "time": 1640979000,
-    "last_time": "2021-12-31 11:30:00",
-    "last_time_z": "2021-12-31T19:30:00+0000",
-    "unix_timestamp": 1640982967
+    "time": 1640982600,
+    "last_time": "2021-12-31 12:30:00",
+    "last_time_z": "2021-12-31T20:30:00+0000",
+    "unix_timestamp": 1640983649
   },
   {
     "name": "Cachuma Reservoir",
@@ -38,12 +38,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 712.24,
+    "last_value": 712.23,
     "unit": "ft",
-    "time": 1640982664,
-    "last_time": "2021-12-31 12:31:04",
-    "last_time_z": "2021-12-31T20:31:04+0000",
-    "unix_timestamp": 1640982967
+    "time": 1640983564,
+    "last_time": "2021-12-31 12:46:04",
+    "last_time_z": "2021-12-31T20:46:04+0000",
+    "unix_timestamp": 1640983649
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1640980800,
     "last_time": "2021-12-31 12:00:00",
     "last_time_z": "2021-12-31T20:00:00+0000",
-    "unix_timestamp": 1640982967
+    "unix_timestamp": 1640983649
   },
   {
     "name": "Getty Basin",
@@ -89,7 +89,7 @@
     "time": 1640979942,
     "last_time": "2021-12-31 11:45:42",
     "last_time_z": "2021-12-31T19:45:42+0000",
-    "unix_timestamp": 1640982967
+    "unix_timestamp": 1640983649
   },
   {
     "name": "Gibraltar Reservoir",
@@ -107,12 +107,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,384.93",
+    "last_value": "1,384.94",
     "unit": "ft",
-    "time": 1640981700,
-    "last_time": "2021-12-31 12:15:00",
-    "last_time_z": "2021-12-31T20:15:00+0000",
-    "unix_timestamp": 1640982967
+    "time": 1640982600,
+    "last_time": "2021-12-31 12:30:00",
+    "last_time_z": "2021-12-31T20:30:00+0000",
+    "unix_timestamp": 1640983649
   },
   {
     "name": "Jameson Reservoir",
@@ -135,6 +135,6 @@
     "time": 1640980927,
     "last_time": "2021-12-31 12:02:07",
     "last_time_z": "2021-12-31T20:02:07+0000",
-    "unix_timestamp": 1640982967
+    "unix_timestamp": 1640983649
   }
 ]
