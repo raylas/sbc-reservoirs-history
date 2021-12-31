@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 599.91,
     "unit": "ft",
-    "time": 1640982600,
-    "last_time": "2021-12-31 12:30:00",
-    "last_time_z": "2021-12-31T20:30:00+0000",
-    "unix_timestamp": 1640986221
+    "time": 1640986200,
+    "last_time": "2021-12-31 13:30:00",
+    "last_time_z": "2021-12-31T21:30:00+0000",
+    "unix_timestamp": 1640987210
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 712.23,
     "unit": "ft",
-    "time": 1640985364,
-    "last_time": "2021-12-31 13:16:04",
-    "last_time_z": "2021-12-31T21:16:04+0000",
-    "unix_timestamp": 1640986221
+    "time": 1640986264,
+    "last_time": "2021-12-31 13:31:04",
+    "last_time_z": "2021-12-31T21:31:04+0000",
+    "unix_timestamp": 1640987210
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1640984400,
     "last_time": "2021-12-31 13:00:00",
     "last_time_z": "2021-12-31T21:00:00+0000",
-    "unix_timestamp": 1640986221
+    "unix_timestamp": 1640987210
   },
   {
     "name": "Getty Basin",
@@ -89,7 +89,7 @@
     "time": 1640979942,
     "last_time": "2021-12-31 11:45:42",
     "last_time_z": "2021-12-31T19:45:42+0000",
-    "unix_timestamp": 1640986221
+    "unix_timestamp": 1640987210
   },
   {
     "name": "Gibraltar Reservoir",
@@ -107,12 +107,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,384.97",
+    "last_value": "1,384.99",
     "unit": "ft",
-    "time": 1640984400,
-    "last_time": "2021-12-31 13:00:00",
-    "last_time_z": "2021-12-31T21:00:00+0000",
-    "unix_timestamp": 1640986221
+    "time": 1640986200,
+    "last_time": "2021-12-31 13:30:00",
+    "last_time_z": "2021-12-31T21:30:00+0000",
+    "unix_timestamp": 1640987210
   },
   {
     "name": "Jameson Reservoir",
@@ -135,6 +135,6 @@
     "time": 1640984546,
     "last_time": "2021-12-31 13:02:26",
     "last_time_z": "2021-12-31T21:02:26+0000",
-    "unix_timestamp": 1640986221
+    "unix_timestamp": 1640987210
   }
 ]
