@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 599.91,
     "unit": "ft",
-    "time": 1640989800,
-    "last_time": "2021-12-31 14:30:00",
-    "last_time_z": "2021-12-31T22:30:00+0000",
-    "unix_timestamp": 1640993660
+    "time": 1640993400,
+    "last_time": "2021-12-31 15:30:00",
+    "last_time_z": "2021-12-31T23:30:00+0000",
+    "unix_timestamp": 1640994395
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 712.24,
     "unit": "ft",
-    "time": 1640993464,
-    "last_time": "2021-12-31 15:31:04",
-    "last_time_z": "2021-12-31T23:31:04+0000",
-    "unix_timestamp": 1640993660
+    "time": 1640994364,
+    "last_time": "2021-12-31 15:46:04",
+    "last_time_z": "2021-12-31T23:46:04+0000",
+    "unix_timestamp": 1640994395
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1640991600,
     "last_time": "2021-12-31 15:00:00",
     "last_time_z": "2021-12-31T23:00:00+0000",
-    "unix_timestamp": 1640993660
+    "unix_timestamp": 1640994395
   },
   {
     "name": "Getty Basin",
@@ -89,7 +89,7 @@
     "time": 1640990742,
     "last_time": "2021-12-31 14:45:42",
     "last_time_z": "2021-12-31T22:45:42+0000",
-    "unix_timestamp": 1640993660
+    "unix_timestamp": 1640994395
   },
   {
     "name": "Gibraltar Reservoir",
@@ -107,12 +107,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,385.05",
+    "last_value": "1,385.06",
     "unit": "ft",
-    "time": 1640992500,
-    "last_time": "2021-12-31 15:15:00",
-    "last_time_z": "2021-12-31T23:15:00+0000",
-    "unix_timestamp": 1640993660
+    "time": 1640993400,
+    "last_time": "2021-12-31 15:30:00",
+    "last_time_z": "2021-12-31T23:30:00+0000",
+    "unix_timestamp": 1640994395
   },
   {
     "name": "Jameson Reservoir",
@@ -135,6 +135,6 @@
     "time": 1640988164,
     "last_time": "2021-12-31 14:02:44",
     "last_time_z": "2021-12-31T22:02:44+0000",
-    "unix_timestamp": 1640993660
+    "unix_timestamp": 1640994395
   }
 ]
