@@ -20,7 +20,7 @@
     "time": 1649028600,
     "last_time": "2022-04-03 16:30:00",
     "last_time_z": "2022-04-03T23:30:00+0000",
-    "unix_timestamp": 1649031356
+    "unix_timestamp": 1649032507
   },
   {
     "name": "Cachuma Reservoir",
@@ -43,7 +43,7 @@
     "time": 1649029562,
     "last_time": "2022-04-03 16:46:02",
     "last_time_z": "2022-04-03T23:46:02+0000",
-    "unix_timestamp": 1649031356
+    "unix_timestamp": 1649032507
   },
   {
     "name": "Casitas Dam",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 489.14,
+    "last_value": 489.17,
     "unit": "ft",
-    "time": 1649026800,
-    "last_time": "2022-04-03 16:00:00",
-    "last_time_z": "2022-04-03T23:00:00+0000",
-    "unix_timestamp": 1649031356
+    "time": 1649030400,
+    "last_time": "2022-04-03 17:00:00",
+    "last_time_z": "2022-04-04T00:00:00+0000",
+    "unix_timestamp": 1649032507
   },
   {
     "name": "Getty Basin",
@@ -89,7 +89,7 @@
     "time": 1649023162,
     "last_time": "2022-04-03 14:59:22",
     "last_time_z": "2022-04-03T21:59:22+0000",
-    "unix_timestamp": 1649031356
+    "unix_timestamp": 1649032507
   },
   {
     "name": "Gibraltar Reservoir",
@@ -109,10 +109,10 @@
     "status": 1,
     "last_value": "1,390.58",
     "unit": "ft",
-    "time": 1649029500,
-    "last_time": "2022-04-03 16:45:00",
-    "last_time_z": "2022-04-03T23:45:00+0000",
-    "unix_timestamp": 1649031356
+    "time": 1649031300,
+    "last_time": "2022-04-03 17:15:00",
+    "last_time_z": "2022-04-04T00:15:00+0000",
+    "unix_timestamp": 1649032507
   },
   {
     "name": "Jameson Reservoir",
@@ -135,7 +135,7 @@
     "time": 1649028906,
     "last_time": "2022-04-03 16:35:06",
     "last_time_z": "2022-04-03T23:35:06+0000",
-    "unix_timestamp": 1649031356
+    "unix_timestamp": 1649032507
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -153,11 +153,11 @@
     "sensor_class": 94,
     "type": "Reservoir Elevation",
     "status": 1,
-    "last_value": 467.23,
+    "last_value": 467.22,
     "unit": "ft",
-    "time": 1649030729,
-    "last_time": "2022-04-03 17:05:29",
-    "last_time_z": "2022-04-04T00:05:29+0000",
-    "unix_timestamp": 1649031356
+    "time": 1649031629,
+    "last_time": "2022-04-03 17:20:29",
+    "last_time_z": "2022-04-04T00:20:29+0000",
+    "unix_timestamp": 1649032507
   }
 ]
