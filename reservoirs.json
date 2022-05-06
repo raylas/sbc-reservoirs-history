@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 599.6,
+    "last_value": 599.61,
     "unit": "ft",
-    "time": 1651818600,
-    "last_time": "2022-05-05 23:30:00",
-    "last_time_z": "2022-05-06T06:30:00+0000",
-    "unix_timestamp": 1651823005
+    "time": 1651822200,
+    "last_time": "2022-05-06 00:30:00",
+    "last_time_z": "2022-05-06T07:30:00+0000",
+    "unix_timestamp": 1651824313
   },
   {
     "name": "Cachuma Reservoir",
@@ -38,12 +38,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 708.82,
+    "last_value": 708.81,
     "unit": "ft",
-    "time": 1651822262,
-    "last_time": "2022-05-06 00:31:02",
-    "last_time_z": "2022-05-06T07:31:02+0000",
-    "unix_timestamp": 1651823005
+    "time": 1651824063,
+    "last_time": "2022-05-06 01:01:03",
+    "last_time_z": "2022-05-06T08:01:03+0000",
+    "unix_timestamp": 1651824313
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1651820400,
     "last_time": "2022-05-06 00:00:00",
     "last_time_z": "2022-05-06T07:00:00+0000",
-    "unix_timestamp": 1651823005
+    "unix_timestamp": 1651824313
   },
   {
     "name": "Gibraltar Reservoir",
@@ -84,12 +84,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,390.05",
+    "last_value": "1,390.06",
     "unit": "ft",
-    "time": 1651821300,
-    "last_time": "2022-05-06 00:15:00",
-    "last_time_z": "2022-05-06T07:15:00+0000",
-    "unix_timestamp": 1651823005
+    "time": 1651823100,
+    "last_time": "2022-05-06 00:45:00",
+    "last_time_z": "2022-05-06T07:45:00+0000",
+    "unix_timestamp": 1651824313
   },
   {
     "name": "Jameson Reservoir",
@@ -112,7 +112,7 @@
     "time": 1651822531,
     "last_time": "2022-05-06 00:35:31",
     "last_time_z": "2022-05-06T07:35:31+0000",
-    "unix_timestamp": 1651823005
+    "unix_timestamp": 1651824313
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -132,9 +132,9 @@
     "status": 1,
     "last_value": 466.35,
     "unit": "ft",
-    "time": 1651822532,
-    "last_time": "2022-05-06 00:35:32",
-    "last_time_z": "2022-05-06T07:35:32+0000",
-    "unix_timestamp": 1651823005
+    "time": 1651823432,
+    "last_time": "2022-05-06 00:50:32",
+    "last_time_z": "2022-05-06T07:50:32+0000",
+    "unix_timestamp": 1651824313
   }
 ]
