@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 753.37,
+    "last_value": 753.36,
     "unit": "ft",
-    "time": 1687890248,
-    "last_time": "2023-06-27 11:24:08",
-    "last_time_z": "2023-06-27T18:24:08+0000",
-    "unix_timestamp": 1687890506
+    "time": 1687890848,
+    "last_time": "2023-06-27 11:34:08",
+    "last_time_z": "2023-06-27T18:34:08+0000",
+    "unix_timestamp": 1687891411
   },
   {
     "name": "Casitas Dam",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 541.73,
     "unit": "ft",
-    "time": 1687885200,
-    "last_time": "2023-06-27 10:00:00",
-    "last_time_z": "2023-06-27T17:00:00+0000",
-    "unix_timestamp": 1687890506
+    "time": 1687888800,
+    "last_time": "2023-06-27 11:00:00",
+    "last_time_z": "2023-06-27T18:00:00+0000",
+    "unix_timestamp": 1687891411
   },
   {
     "name": "Getty Basin",
@@ -66,7 +66,7 @@
     "time": 1687882119,
     "last_time": "2023-06-27 09:08:39",
     "last_time_z": "2023-06-27T16:08:39+0000",
-    "unix_timestamp": 1687890506
+    "unix_timestamp": 1687891411
   },
   {
     "name": "Gibraltar Reservoir",
@@ -84,12 +84,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,399.97",
+    "last_value": "1,399.96",
     "unit": "ft",
-    "time": 1687888800,
-    "last_time": "2023-06-27 11:00:00",
-    "last_time_z": "2023-06-27T18:00:00+0000",
-    "unix_timestamp": 1687890506
+    "time": 1687889700,
+    "last_time": "2023-06-27 11:15:00",
+    "last_time_z": "2023-06-27T18:15:00+0000",
+    "unix_timestamp": 1687891411
   },
   {
     "name": "Jameson Reservoir",
@@ -112,7 +112,7 @@
     "time": 1687887637,
     "last_time": "2023-06-27 10:40:37",
     "last_time_z": "2023-06-27T17:40:37+0000",
-    "unix_timestamp": 1687890506
+    "unix_timestamp": 1687891411
   },
   {
     "name": "Twitchell Reservoir",
@@ -129,12 +129,12 @@
     "sensor": "Reservoir Level",
     "sensor_class": 94,
     "type": "Reservoir Level",
-    "status": 2,
-    "last_value": 618.6,
+    "status": 1,
+    "last_value": 618.56,
     "unit": "ft",
-    "time": 1687789674,
-    "last_time": "2023-06-26 07:27:54",
-    "last_time_z": "2023-06-26T14:27:54+0000",
-    "unix_timestamp": 1687890506
+    "time": 1687890340,
+    "last_time": "2023-06-27 11:25:40",
+    "last_time_z": "2023-06-27T18:25:40+0000",
+    "unix_timestamp": 1687891411
   }
 ]
