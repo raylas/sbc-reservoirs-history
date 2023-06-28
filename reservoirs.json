@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 753.32,
     "unit": "ft",
-    "time": 1687993748,
-    "last_time": "2023-06-28 16:09:08",
-    "last_time_z": "2023-06-28T23:09:08+0000",
-    "unix_timestamp": 1687994740
+    "time": 1687995548,
+    "last_time": "2023-06-28 16:39:08",
+    "last_time_z": "2023-06-28T23:39:08+0000",
+    "unix_timestamp": 1687995807
   },
   {
     "name": "Casitas Dam",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 541.7,
     "unit": "ft",
-    "time": 1687989600,
-    "last_time": "2023-06-28 15:00:00",
-    "last_time_z": "2023-06-28T22:00:00+0000",
-    "unix_timestamp": 1687994740
+    "time": 1687993200,
+    "last_time": "2023-06-28 16:00:00",
+    "last_time_z": "2023-06-28T23:00:00+0000",
+    "unix_timestamp": 1687995807
   },
   {
     "name": "Getty Basin",
@@ -66,7 +66,7 @@
     "time": 1687968520,
     "last_time": "2023-06-28 09:08:40",
     "last_time_z": "2023-06-28T16:08:40+0000",
-    "unix_timestamp": 1687994740
+    "unix_timestamp": 1687995807
   },
   {
     "name": "Gibraltar Reservoir",
@@ -84,12 +84,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,400.04",
+    "last_value": "1,400.02",
     "unit": "ft",
-    "time": 1687993200,
-    "last_time": "2023-06-28 16:00:00",
-    "last_time_z": "2023-06-28T23:00:00+0000",
-    "unix_timestamp": 1687994740
+    "time": 1687994100,
+    "last_time": "2023-06-28 16:15:00",
+    "last_time_z": "2023-06-28T23:15:00+0000",
+    "unix_timestamp": 1687995807
   },
   {
     "name": "Jameson Reservoir",
@@ -112,7 +112,7 @@
     "time": 1687992577,
     "last_time": "2023-06-28 15:49:37",
     "last_time_z": "2023-06-28T22:49:37+0000",
-    "unix_timestamp": 1687994740
+    "unix_timestamp": 1687995807
   },
   {
     "name": "Twitchell Reservoir",
@@ -135,6 +135,6 @@
     "time": 1687993983,
     "last_time": "2023-06-28 16:13:03",
     "last_time_z": "2023-06-28T23:13:03+0000",
-    "unix_timestamp": 1687994740
+    "unix_timestamp": 1687995807
   }
 ]
