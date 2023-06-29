@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 753.29,
     "unit": "ft",
-    "time": 1688064847,
-    "last_time": "2023-06-29 11:54:07",
-    "last_time_z": "2023-06-29T18:54:07+0000",
-    "unix_timestamp": 1688066611
+    "time": 1688067548,
+    "last_time": "2023-06-29 12:39:08",
+    "last_time_z": "2023-06-29T19:39:08+0000",
+    "unix_timestamp": 1688067802
   },
   {
     "name": "Casitas Dam",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 541.69,
     "unit": "ft",
-    "time": 1688061600,
-    "last_time": "2023-06-29 11:00:00",
-    "last_time_z": "2023-06-29T18:00:00+0000",
-    "unix_timestamp": 1688066611
+    "time": 1688065200,
+    "last_time": "2023-06-29 12:00:00",
+    "last_time_z": "2023-06-29T19:00:00+0000",
+    "unix_timestamp": 1688067802
   },
   {
     "name": "Getty Basin",
@@ -66,7 +66,7 @@
     "time": 1688054921,
     "last_time": "2023-06-29 09:08:41",
     "last_time_z": "2023-06-29T16:08:41+0000",
-    "unix_timestamp": 1688066611
+    "unix_timestamp": 1688067802
   },
   {
     "name": "Gibraltar Reservoir",
@@ -84,12 +84,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,400.03",
+    "last_value": "1,400.04",
     "unit": "ft",
-    "time": 1688065200,
-    "last_time": "2023-06-29 12:00:00",
-    "last_time_z": "2023-06-29T19:00:00+0000",
-    "unix_timestamp": 1688066611
+    "time": 1688066100,
+    "last_time": "2023-06-29 12:15:00",
+    "last_time_z": "2023-06-29T19:15:00+0000",
+    "unix_timestamp": 1688067802
   },
   {
     "name": "Jameson Reservoir",
@@ -112,7 +112,7 @@
     "time": 1688064950,
     "last_time": "2023-06-29 11:55:50",
     "last_time_z": "2023-06-29T18:55:50+0000",
-    "unix_timestamp": 1688066611
+    "unix_timestamp": 1688067802
   },
   {
     "name": "Twitchell Reservoir",
@@ -135,6 +135,6 @@
     "time": 1688065983,
     "last_time": "2023-06-29 12:13:03",
     "last_time_z": "2023-06-29T19:13:03+0000",
-    "unix_timestamp": 1688066611
+    "unix_timestamp": 1688067802
   }
 ]
