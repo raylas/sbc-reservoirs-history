@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 753.28,
+    "last_value": 753.27,
     "unit": "ft",
-    "time": 1688118848,
-    "last_time": "2023-06-30 02:54:08",
-    "last_time_z": "2023-06-30T09:54:08+0000",
-    "unix_timestamp": 1688119500
+    "time": 1688120648,
+    "last_time": "2023-06-30 03:24:08",
+    "last_time_z": "2023-06-30T10:24:08+0000",
+    "unix_timestamp": 1688120863
   },
   {
     "name": "Casitas Dam",
@@ -43,7 +43,7 @@
     "time": 1688115600,
     "last_time": "2023-06-30 02:00:00",
     "last_time_z": "2023-06-30T09:00:00+0000",
-    "unix_timestamp": 1688119500
+    "unix_timestamp": 1688120863
   },
   {
     "name": "Getty Basin",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 167.62,
+    "last_value": 167.61,
     "unit": "ft",
-    "time": 1688098121,
-    "last_time": "2023-06-29 21:08:41",
-    "last_time_z": "2023-06-30T04:08:41+0000",
-    "unix_timestamp": 1688119500
+    "time": 1688119722,
+    "last_time": "2023-06-30 03:08:42",
+    "last_time_z": "2023-06-30T10:08:42+0000",
+    "unix_timestamp": 1688120863
   },
   {
     "name": "Gibraltar Reservoir",
@@ -86,10 +86,10 @@
     "status": 1,
     "last_value": "1,400.03",
     "unit": "ft",
-    "time": 1688118300,
-    "last_time": "2023-06-30 02:45:00",
-    "last_time_z": "2023-06-30T09:45:00+0000",
-    "unix_timestamp": 1688119500
+    "time": 1688119200,
+    "last_time": "2023-06-30 03:00:00",
+    "last_time_z": "2023-06-30T10:00:00+0000",
+    "unix_timestamp": 1688120863
   },
   {
     "name": "Jameson Reservoir",
@@ -112,7 +112,7 @@
     "time": 1688119229,
     "last_time": "2023-06-30 03:00:29",
     "last_time_z": "2023-06-30T10:00:29+0000",
-    "unix_timestamp": 1688119500
+    "unix_timestamp": 1688120863
   },
   {
     "name": "Twitchell Reservoir",
@@ -135,6 +135,6 @@
     "time": 1688118184,
     "last_time": "2023-06-30 02:43:04",
     "last_time_z": "2023-06-30T09:43:04+0000",
-    "unix_timestamp": 1688119500
+    "unix_timestamp": 1688120863
   }
 ]
