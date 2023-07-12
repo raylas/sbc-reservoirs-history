@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 752.68,
+    "last_value": 752.67,
     "unit": "ft",
-    "time": 1689198848,
-    "last_time": "2023-07-12 14:54:08",
-    "last_time_z": "2023-07-12T21:54:08+0000",
-    "unix_timestamp": 1689199483
+    "time": 1689200356,
+    "last_time": "2023-07-12 15:19:16",
+    "last_time_z": "2023-07-12T22:19:16+0000",
+    "unix_timestamp": 1689200808
   },
   {
     "name": "Casitas Dam",
@@ -43,7 +43,7 @@
     "time": 1689195600,
     "last_time": "2023-07-12 14:00:00",
     "last_time_z": "2023-07-12T21:00:00+0000",
-    "unix_timestamp": 1689199483
+    "unix_timestamp": 1689200808
   },
   {
     "name": "Getty Basin",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 167.61,
+    "last_value": 167.62,
     "unit": "ft",
-    "time": 1689178133,
-    "last_time": "2023-07-12 09:08:53",
-    "last_time_z": "2023-07-12T16:08:53+0000",
-    "unix_timestamp": 1689199483
+    "time": 1689199733,
+    "last_time": "2023-07-12 15:08:53",
+    "last_time_z": "2023-07-12T22:08:53+0000",
+    "unix_timestamp": 1689200808
   },
   {
     "name": "Gibraltar Reservoir",
@@ -84,12 +84,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,400.00",
+    "last_value": "1,399.99",
     "unit": "ft",
-    "time": 1689198300,
-    "last_time": "2023-07-12 14:45:00",
-    "last_time_z": "2023-07-12T21:45:00+0000",
-    "unix_timestamp": 1689199483
+    "time": 1689199200,
+    "last_time": "2023-07-12 15:00:00",
+    "last_time_z": "2023-07-12T22:00:00+0000",
+    "unix_timestamp": 1689200808
   },
   {
     "name": "Jameson Reservoir",
@@ -112,7 +112,7 @@
     "time": 1689197582,
     "last_time": "2023-07-12 14:33:02",
     "last_time_z": "2023-07-12T21:33:02+0000",
-    "unix_timestamp": 1689199483
+    "unix_timestamp": 1689200808
   },
   {
     "name": "Twitchell Reservoir",
@@ -135,6 +135,6 @@
     "time": 1689198193,
     "last_time": "2023-07-12 14:43:13",
     "last_time_z": "2023-07-12T21:43:13+0000",
-    "unix_timestamp": 1689199483
+    "unix_timestamp": 1689200808
   }
 ]
