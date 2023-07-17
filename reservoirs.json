@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 752.45,
     "unit": "ft",
-    "time": 1689584949,
-    "last_time": "2023-07-17 02:09:09",
-    "last_time_z": "2023-07-17T09:09:09+0000",
-    "unix_timestamp": 1689585941
+    "time": 1689586449,
+    "last_time": "2023-07-17 02:34:09",
+    "last_time_z": "2023-07-17T09:34:09+0000",
+    "unix_timestamp": 1689587003
   },
   {
     "name": "Casitas Dam",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 541.38,
     "unit": "ft",
-    "time": 1689580800,
-    "last_time": "2023-07-17 01:00:00",
-    "last_time_z": "2023-07-17T08:00:00+0000",
-    "unix_timestamp": 1689585941
+    "time": 1689584400,
+    "last_time": "2023-07-17 02:00:00",
+    "last_time_z": "2023-07-17T09:00:00+0000",
+    "unix_timestamp": 1689587003
   },
   {
     "name": "Getty Basin",
@@ -66,7 +66,7 @@
     "time": 1689566937,
     "last_time": "2023-07-16 21:08:57",
     "last_time_z": "2023-07-17T04:08:57+0000",
-    "unix_timestamp": 1689585941
+    "unix_timestamp": 1689587003
   },
   {
     "name": "Gibraltar Reservoir",
@@ -84,12 +84,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,399.84",
+    "last_value": "1,399.83",
     "unit": "ft",
-    "time": 1689584400,
-    "last_time": "2023-07-17 02:00:00",
-    "last_time_z": "2023-07-17T09:00:00+0000",
-    "unix_timestamp": 1689585941
+    "time": 1689585300,
+    "last_time": "2023-07-17 02:15:00",
+    "last_time_z": "2023-07-17T09:15:00+0000",
+    "unix_timestamp": 1689587003
   },
   {
     "name": "Jameson Reservoir",
@@ -112,7 +112,7 @@
     "time": 1689584776,
     "last_time": "2023-07-17 02:06:16",
     "last_time_z": "2023-07-17T09:06:16+0000",
-    "unix_timestamp": 1689585941
+    "unix_timestamp": 1689587003
   },
   {
     "name": "Twitchell Reservoir",
@@ -135,6 +135,6 @@
     "time": 1689583395,
     "last_time": "2023-07-17 01:43:15",
     "last_time_z": "2023-07-17T08:43:15+0000",
-    "unix_timestamp": 1689585941
+    "unix_timestamp": 1689587003
   }
 ]
