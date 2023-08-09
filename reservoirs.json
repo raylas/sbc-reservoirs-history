@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 751.15,
+    "last_value": 751.13,
     "unit": "ft",
-    "time": 1691574167,
-    "last_time": "2023-08-09 02:42:47",
-    "last_time_z": "2023-08-09T09:42:47+0000",
-    "unix_timestamp": 1691574204
+    "time": 1691574767,
+    "last_time": "2023-08-09 02:52:47",
+    "last_time_z": "2023-08-09T09:52:47+0000",
+    "unix_timestamp": 1691575496
   },
   {
     "name": "Casitas Dam",
@@ -43,7 +43,7 @@
     "time": 1691571600,
     "last_time": "2023-08-09 02:00:00",
     "last_time_z": "2023-08-09T09:00:00+0000",
-    "unix_timestamp": 1691574204
+    "unix_timestamp": 1691575496
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,395.95",
+    "last_value": "1,395.94",
     "unit": "ft",
-    "time": 1691572500,
-    "last_time": "2023-08-09 02:15:00",
-    "last_time_z": "2023-08-09T09:15:00+0000",
-    "unix_timestamp": 1691574204
+    "time": 1691574300,
+    "last_time": "2023-08-09 02:45:00",
+    "last_time_z": "2023-08-09T09:45:00+0000",
+    "unix_timestamp": 1691575496
   },
   {
     "name": "Jameson Reservoir",
@@ -86,10 +86,10 @@
     "status": 1,
     "last_value": "2,223.66",
     "unit": "ft",
-    "time": 1691571618,
-    "last_time": "2023-08-09 02:00:18",
-    "last_time_z": "2023-08-09T09:00:18+0000",
-    "unix_timestamp": 1691574204
+    "time": 1691575237,
+    "last_time": "2023-08-09 03:00:37",
+    "last_time_z": "2023-08-09T10:00:37+0000",
+    "unix_timestamp": 1691575496
   },
   {
     "name": "Twitchell Reservoir",
@@ -106,12 +106,12 @@
     "sensor": "Reservoir Level",
     "sensor_class": 94,
     "type": "Reservoir Level",
-    "status": 1,
+    "status": 2,
     "last_value": 607.92,
     "unit": "ft",
     "time": 1691488023,
     "last_time": "2023-08-08 02:47:03",
     "last_time_z": "2023-08-08T09:47:03+0000",
-    "unix_timestamp": 1691574204
+    "unix_timestamp": 1691575496
   }
 ]
