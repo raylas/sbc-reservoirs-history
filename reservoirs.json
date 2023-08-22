@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 750.61,
+    "last_value": 750.62,
     "unit": "ft",
-    "time": 1692696191,
-    "last_time": "2023-08-22 02:23:11",
-    "last_time_z": "2023-08-22T09:23:11+0000",
-    "unix_timestamp": 1692696209
+    "time": 1692697381,
+    "last_time": "2023-08-22 02:43:01",
+    "last_time_z": "2023-08-22T09:43:01+0000",
+    "unix_timestamp": 1692697413
   },
   {
     "name": "Casitas Dam",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 540.51,
     "unit": "ft",
-    "time": 1692691200,
-    "last_time": "2023-08-22 01:00:00",
-    "last_time_z": "2023-08-22T08:00:00+0000",
-    "unix_timestamp": 1692696209
+    "time": 1692694800,
+    "last_time": "2023-08-22 02:00:00",
+    "last_time_z": "2023-08-22T09:00:00+0000",
+    "unix_timestamp": 1692697413
   },
   {
     "name": "Gibraltar Reservoir",
@@ -63,10 +63,10 @@
     "status": 1,
     "last_value": "1,393.40",
     "unit": "ft",
-    "time": 1692694800,
-    "last_time": "2023-08-22 02:00:00",
-    "last_time_z": "2023-08-22T09:00:00+0000",
-    "unix_timestamp": 1692696209
+    "time": 1692695700,
+    "last_time": "2023-08-22 02:15:00",
+    "last_time_z": "2023-08-22T09:15:00+0000",
+    "unix_timestamp": 1692697413
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1692693407,
     "last_time": "2023-08-22 01:36:47",
     "last_time_z": "2023-08-22T08:36:47+0000",
-    "unix_timestamp": 1692696209
+    "unix_timestamp": 1692697413
   },
   {
     "name": "Twitchell Reservoir",
@@ -112,6 +112,6 @@
     "time": 1692696021,
     "last_time": "2023-08-22 02:20:21",
     "last_time_z": "2023-08-22T09:20:21+0000",
-    "unix_timestamp": 1692696209
+    "unix_timestamp": 1692697413
   }
 ]
