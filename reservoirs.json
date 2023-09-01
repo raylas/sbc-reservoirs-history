@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 599.2,
     "unit": "ft",
-    "time": 1693535400,
-    "last_time": "2023-08-31 19:30:00",
-    "last_time_z": "2023-09-01T02:30:00+0000",
-    "unix_timestamp": 1693539800
+    "time": 1693539000,
+    "last_time": "2023-08-31 20:30:00",
+    "last_time_z": "2023-09-01T03:30:00+0000",
+    "unix_timestamp": 1693541105
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 750.11,
     "unit": "ft",
-    "time": 1693538894,
-    "last_time": "2023-08-31 20:28:14",
-    "last_time_z": "2023-09-01T03:28:14+0000",
-    "unix_timestamp": 1693539800
+    "time": 1693540694,
+    "last_time": "2023-08-31 20:58:14",
+    "last_time_z": "2023-09-01T03:58:14+0000",
+    "unix_timestamp": 1693541105
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1693537200,
     "last_time": "2023-08-31 20:00:00",
     "last_time_z": "2023-09-01T03:00:00+0000",
-    "unix_timestamp": 1693539800
+    "unix_timestamp": 1693541105
   },
   {
     "name": "Gibraltar Reservoir",
@@ -84,12 +84,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,392.83",
+    "last_value": "1,392.82",
     "unit": "ft",
-    "time": 1693538100,
-    "last_time": "2023-08-31 20:15:00",
-    "last_time_z": "2023-09-01T03:15:00+0000",
-    "unix_timestamp": 1693539800
+    "time": 1693539900,
+    "last_time": "2023-08-31 20:45:00",
+    "last_time_z": "2023-09-01T03:45:00+0000",
+    "unix_timestamp": 1693541105
   },
   {
     "name": "Jameson Reservoir",
@@ -109,10 +109,10 @@
     "status": 1,
     "last_value": "2,223.46",
     "unit": "ft",
-    "time": 1693536560,
-    "last_time": "2023-08-31 19:49:20",
-    "last_time_z": "2023-09-01T02:49:20+0000",
-    "unix_timestamp": 1693539800
+    "time": 1693540178,
+    "last_time": "2023-08-31 20:49:38",
+    "last_time_z": "2023-09-01T03:49:38+0000",
+    "unix_timestamp": 1693541105
   },
   {
     "name": "Twitchell Reservoir",
@@ -130,11 +130,11 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 597.28,
+    "last_value": 597.33,
     "unit": "ft",
-    "time": 1693538439,
-    "last_time": "2023-08-31 20:20:39",
-    "last_time_z": "2023-09-01T03:20:39+0000",
-    "unix_timestamp": 1693539800
+    "time": 1693540239,
+    "last_time": "2023-08-31 20:50:39",
+    "last_time_z": "2023-09-01T03:50:39+0000",
+    "unix_timestamp": 1693541105
   }
 ]
