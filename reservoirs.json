@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 599.16,
     "unit": "ft",
-    "time": 1693654200,
-    "last_time": "2023-09-02 04:30:00",
-    "last_time_z": "2023-09-02T11:30:00+0000",
-    "unix_timestamp": 1693657848
+    "time": 1693657800,
+    "last_time": "2023-09-02 05:30:00",
+    "last_time_z": "2023-09-02T12:30:00+0000",
+    "unix_timestamp": 1693658788
   },
   {
     "name": "Cachuma Reservoir",
@@ -38,12 +38,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 750.04,
+    "last_value": 750.06,
     "unit": "ft",
-    "time": 1693655896,
-    "last_time": "2023-09-02 04:58:16",
-    "last_time_z": "2023-09-02T11:58:16+0000",
-    "unix_timestamp": 1693657848
+    "time": 1693658595,
+    "last_time": "2023-09-02 05:43:15",
+    "last_time_z": "2023-09-02T12:43:15+0000",
+    "unix_timestamp": 1693658788
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1693656000,
     "last_time": "2023-09-02 05:00:00",
     "last_time_z": "2023-09-02T12:00:00+0000",
-    "unix_timestamp": 1693657848
+    "unix_timestamp": 1693658788
   },
   {
     "name": "Gibraltar Reservoir",
@@ -86,10 +86,10 @@
     "status": 1,
     "last_value": "1,392.72",
     "unit": "ft",
-    "time": 1693656000,
-    "last_time": "2023-09-02 05:00:00",
-    "last_time_z": "2023-09-02T12:00:00+0000",
-    "unix_timestamp": 1693657848
+    "time": 1693657800,
+    "last_time": "2023-09-02 05:30:00",
+    "last_time_z": "2023-09-02T12:30:00+0000",
+    "unix_timestamp": 1693658788
   },
   {
     "name": "Jameson Reservoir",
@@ -112,7 +112,7 @@
     "time": 1693652357,
     "last_time": "2023-09-02 03:59:17",
     "last_time_z": "2023-09-02T10:59:17+0000",
-    "unix_timestamp": 1693657848
+    "unix_timestamp": 1693658788
   },
   {
     "name": "Twitchell Reservoir",
@@ -135,6 +135,6 @@
     "time": 1693655444,
     "last_time": "2023-09-02 04:50:44",
     "last_time_z": "2023-09-02T11:50:44+0000",
-    "unix_timestamp": 1693657848
+    "unix_timestamp": 1693658788
   }
 ]
