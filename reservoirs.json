@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 599.16,
+    "last_value": 599.15,
     "unit": "ft",
-    "time": 1693877400,
-    "last_time": "2023-09-04 18:30:00",
-    "last_time_z": "2023-09-05T01:30:00+0000",
-    "unix_timestamp": 1693881804
+    "time": 1693881000,
+    "last_time": "2023-09-04 19:30:00",
+    "last_time_z": "2023-09-05T02:30:00+0000",
+    "unix_timestamp": 1693883105
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 749.88,
     "unit": "ft",
-    "time": 1693880898,
-    "last_time": "2023-09-04 19:28:18",
-    "last_time_z": "2023-09-05T02:28:18+0000",
-    "unix_timestamp": 1693881804
+    "time": 1693882698,
+    "last_time": "2023-09-04 19:58:18",
+    "last_time_z": "2023-09-05T02:58:18+0000",
+    "unix_timestamp": 1693883105
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1693879200,
     "last_time": "2023-09-04 19:00:00",
     "last_time_z": "2023-09-05T02:00:00+0000",
-    "unix_timestamp": 1693881804
+    "unix_timestamp": 1693883105
   },
   {
     "name": "Gibraltar Reservoir",
@@ -86,10 +86,10 @@
     "status": 1,
     "last_value": "1,392.57",
     "unit": "ft",
-    "time": 1693880100,
-    "last_time": "2023-09-04 19:15:00",
-    "last_time_z": "2023-09-05T02:15:00+0000",
-    "unix_timestamp": 1693881804
+    "time": 1693881900,
+    "last_time": "2023-09-04 19:45:00",
+    "last_time_z": "2023-09-05T02:45:00+0000",
+    "unix_timestamp": 1693883105
   },
   {
     "name": "Jameson Reservoir",
@@ -112,7 +112,7 @@
     "time": 1693880334,
     "last_time": "2023-09-04 19:18:54",
     "last_time_z": "2023-09-05T02:18:54+0000",
-    "unix_timestamp": 1693881804
+    "unix_timestamp": 1693883105
   },
   {
     "name": "Twitchell Reservoir",
@@ -130,11 +130,11 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 595.42,
+    "last_value": 595.32,
     "unit": "ft",
-    "time": 1693878646,
-    "last_time": "2023-09-04 18:50:46",
-    "last_time_z": "2023-09-05T01:50:46+0000",
-    "unix_timestamp": 1693881804
+    "time": 1693882246,
+    "last_time": "2023-09-04 19:50:46",
+    "last_time_z": "2023-09-05T02:50:46+0000",
+    "unix_timestamp": 1693883105
   }
 ]
