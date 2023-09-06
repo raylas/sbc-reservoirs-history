@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 599.11,
+    "last_value": 599.1,
     "unit": "ft",
-    "time": 1693999800,
-    "last_time": "2023-09-06 04:30:00",
-    "last_time_z": "2023-09-06T11:30:00+0000",
-    "unix_timestamp": 1694003493
+    "time": 1694003400,
+    "last_time": "2023-09-06 05:30:00",
+    "last_time_z": "2023-09-06T12:30:00+0000",
+    "unix_timestamp": 1694004513
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 749.82,
     "unit": "ft",
-    "time": 1694001499,
-    "last_time": "2023-09-06 04:58:19",
-    "last_time_z": "2023-09-06T11:58:19+0000",
-    "unix_timestamp": 1694003493
+    "time": 1694004199,
+    "last_time": "2023-09-06 05:43:19",
+    "last_time_z": "2023-09-06T12:43:19+0000",
+    "unix_timestamp": 1694004513
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1694001600,
     "last_time": "2023-09-06 05:00:00",
     "last_time_z": "2023-09-06T12:00:00+0000",
-    "unix_timestamp": 1694003493
+    "unix_timestamp": 1694004513
   },
   {
     "name": "Gibraltar Reservoir",
@@ -86,10 +86,10 @@
     "status": 1,
     "last_value": "1,392.40",
     "unit": "ft",
-    "time": 1694002500,
-    "last_time": "2023-09-06 05:15:00",
-    "last_time_z": "2023-09-06T12:15:00+0000",
-    "unix_timestamp": 1694003493
+    "time": 1694003400,
+    "last_time": "2023-09-06 05:30:00",
+    "last_time_z": "2023-09-06T12:30:00+0000",
+    "unix_timestamp": 1694004513
   },
   {
     "name": "Jameson Reservoir",
@@ -112,7 +112,7 @@
     "time": 1693999750,
     "last_time": "2023-09-06 04:29:10",
     "last_time_z": "2023-09-06T11:29:10+0000",
-    "unix_timestamp": 1694003493
+    "unix_timestamp": 1694004513
   },
   {
     "name": "Twitchell Reservoir",
@@ -135,6 +135,6 @@
     "time": 1694001048,
     "last_time": "2023-09-06 04:50:48",
     "last_time_z": "2023-09-06T11:50:48+0000",
-    "unix_timestamp": 1694003493
+    "unix_timestamp": 1694004513
   }
 ]
