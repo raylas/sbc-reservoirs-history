@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 598.24,
+    "last_value": 598.23,
     "unit": "ft",
-    "time": 1697110200,
-    "last_time": "2023-10-12 04:30:00",
-    "last_time_z": "2023-10-12T11:30:00+0000",
-    "unix_timestamp": 1697113899
+    "time": 1697113800,
+    "last_time": "2023-10-12 05:30:00",
+    "last_time_z": "2023-10-12T12:30:00+0000",
+    "unix_timestamp": 1697114942
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 748.09,
     "unit": "ft",
-    "time": 1697111935,
-    "last_time": "2023-10-12 04:58:55",
-    "last_time_z": "2023-10-12T11:58:55+0000",
-    "unix_timestamp": 1697113899
+    "time": 1697114635,
+    "last_time": "2023-10-12 05:43:55",
+    "last_time_z": "2023-10-12T12:43:55+0000",
+    "unix_timestamp": 1697114942
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1697112000,
     "last_time": "2023-10-12 05:00:00",
     "last_time_z": "2023-10-12T12:00:00+0000",
-    "unix_timestamp": 1697113899
+    "unix_timestamp": 1697114942
   },
   {
     "name": "Gibraltar Reservoir",
@@ -89,7 +89,7 @@
     "time": 1697112900,
     "last_time": "2023-10-12 05:15:00",
     "last_time_z": "2023-10-12T12:15:00+0000",
-    "unix_timestamp": 1697113899
+    "unix_timestamp": 1697114942
   },
   {
     "name": "Jameson Reservoir",
@@ -112,7 +112,7 @@
     "time": 1697108435,
     "last_time": "2023-10-12 04:00:35",
     "last_time_z": "2023-10-12T11:00:35+0000",
-    "unix_timestamp": 1697113899
+    "unix_timestamp": 1697114942
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,7 +135,7 @@
     "time": 1697113657,
     "last_time": "2023-10-12 05:27:37",
     "last_time_z": "2023-10-12T12:27:37+0000",
-    "unix_timestamp": 1697113899
+    "unix_timestamp": 1697114942
   },
   {
     "name": "Twitchell Reservoir",
@@ -158,6 +158,6 @@
     "time": 1697108267,
     "last_time": "2023-10-12 03:57:47",
     "last_time_z": "2023-10-12T10:57:47+0000",
-    "unix_timestamp": 1697113899
+    "unix_timestamp": 1697114942
   }
 ]
