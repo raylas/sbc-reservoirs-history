@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 598.82,
+    "last_value": 598.87,
     "unit": "ft",
-    "time": 1709361000,
-    "last_time": "2024-03-01 22:30:00",
-    "last_time_z": "2024-03-02T06:30:00+0000",
-    "unix_timestamp": 1709364208
+    "time": 1709364600,
+    "last_time": "2024-03-01 23:30:00",
+    "last_time_z": "2024-03-02T07:30:00+0000",
+    "unix_timestamp": 1709365399
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 752.74,
     "unit": "ft",
-    "time": 1709363451,
-    "last_time": "2024-03-01 23:10:51",
-    "last_time_z": "2024-03-02T07:10:51+0000",
-    "unix_timestamp": 1709364208
+    "time": 1709364641,
+    "last_time": "2024-03-01 23:30:41",
+    "last_time_z": "2024-03-02T07:30:41+0000",
+    "unix_timestamp": 1709365399
   },
   {
     "name": "Casitas Dam",
@@ -66,7 +66,7 @@
     "time": 1709359200,
     "last_time": "2024-03-01 22:00:00",
     "last_time_z": "2024-03-02T06:00:00+0000",
-    "unix_timestamp": 1709364208
+    "unix_timestamp": 1709365399
   },
   {
     "name": "Getty Basin",
@@ -89,7 +89,7 @@
     "time": 1709345793,
     "last_time": "2024-03-01 18:16:33",
     "last_time_z": "2024-03-02T02:16:33+0000",
-    "unix_timestamp": 1709364208
+    "unix_timestamp": 1709365399
   },
   {
     "name": "Gibraltar Reservoir",
@@ -107,12 +107,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,400.21",
+    "last_value": "1,400.20",
     "unit": "ft",
-    "time": 1709361900,
-    "last_time": "2024-03-01 22:45:00",
-    "last_time_z": "2024-03-02T06:45:00+0000",
-    "unix_timestamp": 1709364208
+    "time": 1709363700,
+    "last_time": "2024-03-01 23:15:00",
+    "last_time_z": "2024-03-02T07:15:00+0000",
+    "unix_timestamp": 1709365399
   },
   {
     "name": "Jameson Reservoir",
@@ -130,12 +130,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "2,224.20",
+    "last_value": "2,224.18",
     "unit": "ft",
-    "time": 1709361328,
-    "last_time": "2024-03-01 22:35:28",
-    "last_time_z": "2024-03-02T06:35:28+0000",
-    "unix_timestamp": 1709364208
+    "time": 1709364947,
+    "last_time": "2024-03-01 23:35:47",
+    "last_time_z": "2024-03-02T07:35:47+0000",
+    "unix_timestamp": 1709365399
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -153,12 +153,12 @@
     "sensor_class": 94,
     "type": "Reservoir Elevation",
     "status": 1,
-    "last_value": 522.85,
+    "last_value": 522.86,
     "unit": "ft",
-    "time": 1709363378,
-    "last_time": "2024-03-01 23:09:38",
-    "last_time_z": "2024-03-02T07:09:38+0000",
-    "unix_timestamp": 1709364208
+    "time": 1709364278,
+    "last_time": "2024-03-01 23:24:38",
+    "last_time_z": "2024-03-02T07:24:38+0000",
+    "unix_timestamp": 1709365399
   },
   {
     "name": "Twitchell Reservoir",
@@ -176,12 +176,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 560.88,
+    "last_value": 560.95,
     "unit": "ft",
-    "time": 1709362586,
-    "last_time": "2024-03-01 22:56:26",
-    "last_time_z": "2024-03-02T06:56:26+0000",
-    "unix_timestamp": 1709364208
+    "time": 1709364387,
+    "last_time": "2024-03-01 23:26:27",
+    "last_time_z": "2024-03-02T07:26:27+0000",
+    "unix_timestamp": 1709365399
   },
   {
     "name": "Z. Test Bradbury Dam ",
@@ -199,12 +199,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,400.21",
+    "last_value": "1,400.20",
     "unit": "ft",
-    "time": 1709361900,
-    "last_time": "2024-03-01 22:45:00",
-    "last_time_z": "2024-03-02T06:45:00+0000",
-    "unix_timestamp": 1709364208
+    "time": 1709363700,
+    "last_time": "2024-03-01 23:15:00",
+    "last_time_z": "2024-03-02T07:15:00+0000",
+    "unix_timestamp": 1709365399
   },
   {
     "name": "Z. Test Bradbury Dam ",
@@ -224,9 +224,9 @@
     "status": 1,
     "last_value": 752.74,
     "unit": "ft",
-    "time": 1709363451,
-    "last_time": "2024-03-01 23:10:51",
-    "last_time_z": "2024-03-02T07:10:51+0000",
-    "unix_timestamp": 1709364208
+    "time": 1709364641,
+    "last_time": "2024-03-01 23:30:41",
+    "last_time_z": "2024-03-02T07:30:41+0000",
+    "unix_timestamp": 1709365399
   }
 ]
