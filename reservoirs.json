@@ -1,1 +1,140 @@
-[]
+[
+  {
+    "name": "Alisal Reservoir",
+    "site": "5974a0e9-1721-445b-ac55-cf9f9424ae14",
+    "device": "82143421-a23e-4cb3-8022-bd220ccb65c8",
+    "site_id": 94,
+    "device_id": 7,
+    "site_alias": 555,
+    "device_alias": "554E",
+    "coordinates": [
+      -120.13,
+      34.549
+    ],
+    "sensor": "Reservoir Level",
+    "sensor_class": 94,
+    "type": "Reservoir Level",
+    "status": 1,
+    "last_value": 600.04,
+    "unit": "ft",
+    "time": 1710646200,
+    "last_time": "2024-03-16 20:30:00",
+    "last_time_z": "2024-03-17T03:30:00+0000",
+    "unix_timestamp": 1710649544
+  },
+  {
+    "name": "Cachuma Reservoir",
+    "site": "70729dd9-97d4-430a-9271-7b6c195b49be",
+    "device": "5d7a3129-708d-4881-9886-f84c6686ab41",
+    "site_id": 105,
+    "device_id": 1,
+    "site_alias": 22108,
+    "device_alias": 516,
+    "coordinates": [
+      -119.98072,
+      34.58256
+    ],
+    "sensor": "1. Reservoir Level",
+    "sensor_class": 94,
+    "type": "Reservoir Level",
+    "status": 1,
+    "last_value": 753.86,
+    "unit": "ft",
+    "time": 1710648953,
+    "last_time": "2024-03-16 21:15:53",
+    "last_time_z": "2024-03-17T04:15:53+0000",
+    "unix_timestamp": 1710649544
+  },
+  {
+    "name": "Gibraltar Reservoir",
+    "site": "f9b76518-c977-4018-b913-49a2b2e09888",
+    "device": "f871ac23-19c3-4329-a60d-7eb63b7b3554",
+    "site_id": 53,
+    "device_id": 32,
+    "site_alias": 22125,
+    "device_alias": 559,
+    "coordinates": [
+      -119.68689,
+      34.52625
+    ],
+    "sensor": "Reservoir Level",
+    "sensor_class": 94,
+    "type": "Reservoir Level",
+    "status": 1,
+    "last_value": "1,400.18",
+    "unit": "ft",
+    "time": 1710648000,
+    "last_time": "2024-03-16 21:00:00",
+    "last_time_z": "2024-03-17T04:00:00+0000",
+    "unix_timestamp": 1710649544
+  },
+  {
+    "name": "Jameson Reservoir",
+    "site": "fca85959-52d5-43b7-89aa-7d5f1e139955",
+    "device": "c3a8387f-7517-4c67-b8d3-b939a974b15b",
+    "site_id": 43,
+    "device_id": 2,
+    "site_alias": 22133,
+    "device_alias": 2579,
+    "coordinates": [
+      -119.50694,
+      34.49083
+    ],
+    "sensor": "Reservoir Level",
+    "sensor_class": 94,
+    "type": "Reservoir Level",
+    "status": 1,
+    "last_value": "2,224.04",
+    "unit": "ft",
+    "time": 1710645964,
+    "last_time": "2024-03-16 20:26:04",
+    "last_time_z": "2024-03-17T03:26:04+0000",
+    "unix_timestamp": 1710649544
+  },
+  {
+    "name": "Lopez Dam (SLOC)",
+    "site": "8ee52942-0421-4af5-94fb-2dc10f4d9c0c",
+    "device": "9f41bfe6-1e87-411a-9677-da15aa56a26c",
+    "site_id": 565,
+    "device_id": 5,
+    "site_alias": 737,
+    "device_alias": 4616,
+    "coordinates": [
+      -120.4844667,
+      35.1865837
+    ],
+    "sensor": "Reservoir Elevation",
+    "sensor_class": 94,
+    "type": "Reservoir Elevation",
+    "status": 1,
+    "last_value": 522.75,
+    "unit": "ft",
+    "time": 1710648578,
+    "last_time": "2024-03-16 21:09:38",
+    "last_time_z": "2024-03-17T04:09:38+0000",
+    "unix_timestamp": 1710649544
+  },
+  {
+    "name": "Twitchell Reservoir",
+    "site": "5605bd9d-27a8-493b-b3c4-372303847336",
+    "device": "872d7719-8203-4b54-8d1c-7f7fc46dd947",
+    "site_id": 132,
+    "device_id": 2,
+    "site_alias": 598,
+    "device_alias": 513,
+    "coordinates": [
+      -120.32319,
+      34.98542
+    ],
+    "sensor": "Reservoir Level",
+    "sensor_class": 94,
+    "type": "Reservoir Level",
+    "status": 1,
+    "last_value": 570.37,
+    "unit": "ft",
+    "time": 1710646328,
+    "last_time": "2024-03-16 20:32:08",
+    "last_time_z": "2024-03-17T03:32:08+0000",
+    "unix_timestamp": 1710649544
+  }
+]
