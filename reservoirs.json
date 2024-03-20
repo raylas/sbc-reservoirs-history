@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 600.01,
+    "last_value": 600.75,
     "unit": "ft",
-    "time": 1710955800,
-    "last_time": "2024-03-20 10:30:00",
-    "last_time_z": "2024-03-20T17:30:00+0000",
-    "unix_timestamp": 1710959193
+    "time": 1710959400,
+    "last_time": "2024-03-20 11:30:00",
+    "last_time_z": "2024-03-20T18:30:00+0000",
+    "unix_timestamp": 1710960203
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 754.01,
     "unit": "ft",
-    "time": 1710958555,
-    "last_time": "2024-03-20 11:15:55",
-    "last_time_z": "2024-03-20T18:15:55+0000",
-    "unix_timestamp": 1710959193
+    "time": 1710959455,
+    "last_time": "2024-03-20 11:30:55",
+    "last_time_z": "2024-03-20T18:30:55+0000",
+    "unix_timestamp": 1710960203
   },
   {
     "name": "Gibraltar Reservoir",
@@ -63,10 +63,10 @@
     "status": 1,
     "last_value": "1,400.12",
     "unit": "ft",
-    "time": 1710957600,
-    "last_time": "2024-03-20 11:00:00",
-    "last_time_z": "2024-03-20T18:00:00+0000",
-    "unix_timestamp": 1710959193
+    "time": 1710958500,
+    "last_time": "2024-03-20 11:15:00",
+    "last_time_z": "2024-03-20T18:15:00+0000",
+    "unix_timestamp": 1710960203
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1710957171,
     "last_time": "2024-03-20 10:52:51",
     "last_time_z": "2024-03-20T17:52:51+0000",
-    "unix_timestamp": 1710959193
+    "unix_timestamp": 1710960203
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -109,10 +109,10 @@
     "status": 1,
     "last_value": 522.75,
     "unit": "ft",
-    "time": 1710958178,
-    "last_time": "2024-03-20 11:09:38",
-    "last_time_z": "2024-03-20T18:09:38+0000",
-    "unix_timestamp": 1710959193
+    "time": 1710959078,
+    "last_time": "2024-03-20 11:24:38",
+    "last_time_z": "2024-03-20T18:24:38+0000",
+    "unix_timestamp": 1710960203
   },
   {
     "name": "Twitchell Reservoir",
@@ -135,6 +135,6 @@
     "time": 1710957734,
     "last_time": "2024-03-20 11:02:14",
     "last_time_z": "2024-03-20T18:02:14+0000",
-    "unix_timestamp": 1710959193
+    "unix_timestamp": 1710960203
   }
 ]
