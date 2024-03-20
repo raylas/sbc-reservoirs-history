@@ -20,7 +20,7 @@
     "time": 1710930600,
     "last_time": "2024-03-20 03:30:00",
     "last_time_z": "2024-03-20T10:30:00+0000",
-    "unix_timestamp": 1710932678
+    "unix_timestamp": 1710933804
   },
   {
     "name": "Cachuma Reservoir",
@@ -38,12 +38,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 754,
+    "last_value": 754.01,
     "unit": "ft",
-    "time": 1710932456,
-    "last_time": "2024-03-20 04:00:56",
-    "last_time_z": "2024-03-20T11:00:56+0000",
-    "unix_timestamp": 1710932678
+    "time": 1710933056,
+    "last_time": "2024-03-20 04:10:56",
+    "last_time_z": "2024-03-20T11:10:56+0000",
+    "unix_timestamp": 1710933804
   },
   {
     "name": "Gibraltar Reservoir",
@@ -63,10 +63,10 @@
     "status": 1,
     "last_value": "1,400.13",
     "unit": "ft",
-    "time": 1710930600,
-    "last_time": "2024-03-20 03:30:00",
-    "last_time_z": "2024-03-20T10:30:00+0000",
-    "unix_timestamp": 1710932678
+    "time": 1710932400,
+    "last_time": "2024-03-20 04:00:00",
+    "last_time_z": "2024-03-20T11:00:00+0000",
+    "unix_timestamp": 1710933804
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1710931841,
     "last_time": "2024-03-20 03:50:41",
     "last_time_z": "2024-03-20T10:50:41+0000",
-    "unix_timestamp": 1710932678
+    "unix_timestamp": 1710933804
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -109,10 +109,10 @@
     "status": 1,
     "last_value": 522.75,
     "unit": "ft",
-    "time": 1710932078,
-    "last_time": "2024-03-20 03:54:38",
-    "last_time_z": "2024-03-20T10:54:38+0000",
-    "unix_timestamp": 1710932678
+    "time": 1710932978,
+    "last_time": "2024-03-20 04:09:38",
+    "last_time_z": "2024-03-20T11:09:38+0000",
+    "unix_timestamp": 1710933804
   },
   {
     "name": "Twitchell Reservoir",
@@ -135,6 +135,6 @@
     "time": 1710932533,
     "last_time": "2024-03-20 04:02:13",
     "last_time_z": "2024-03-20T11:02:13+0000",
-    "unix_timestamp": 1710932678
+    "unix_timestamp": 1710933804
   }
 ]
