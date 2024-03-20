@@ -20,7 +20,7 @@
     "time": 1710898200,
     "last_time": "2024-03-19 18:30:00",
     "last_time_z": "2024-03-20T01:30:00+0000",
-    "unix_timestamp": 1710900647
+    "unix_timestamp": 1710901583
   },
   {
     "name": "Cachuma Reservoir",
@@ -38,12 +38,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 754,
+    "last_value": 753.99,
     "unit": "ft",
-    "time": 1710900056,
-    "last_time": "2024-03-19 19:00:56",
-    "last_time_z": "2024-03-20T02:00:56+0000",
-    "unix_timestamp": 1710900647
+    "time": 1710900656,
+    "last_time": "2024-03-19 19:10:56",
+    "last_time_z": "2024-03-20T02:10:56+0000",
+    "unix_timestamp": 1710901583
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,400.15",
+    "last_value": "1,400.14",
     "unit": "ft",
-    "time": 1710899100,
-    "last_time": "2024-03-19 18:45:00",
-    "last_time_z": "2024-03-20T01:45:00+0000",
-    "unix_timestamp": 1710900647
+    "time": 1710900000,
+    "last_time": "2024-03-19 19:00:00",
+    "last_time_z": "2024-03-20T02:00:00+0000",
+    "unix_timestamp": 1710901583
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1710899273,
     "last_time": "2024-03-19 18:47:53",
     "last_time_z": "2024-03-20T01:47:53+0000",
-    "unix_timestamp": 1710900647
+    "unix_timestamp": 1710901583
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -109,10 +109,10 @@
     "status": 1,
     "last_value": 522.75,
     "unit": "ft",
-    "time": 1710899678,
-    "last_time": "2024-03-19 18:54:38",
-    "last_time_z": "2024-03-20T01:54:38+0000",
-    "unix_timestamp": 1710900647
+    "time": 1710900578,
+    "last_time": "2024-03-19 19:09:38",
+    "last_time_z": "2024-03-20T02:09:38+0000",
+    "unix_timestamp": 1710901583
   },
   {
     "name": "Twitchell Reservoir",
@@ -135,6 +135,6 @@
     "time": 1710900133,
     "last_time": "2024-03-19 19:02:13",
     "last_time_z": "2024-03-20T02:02:13+0000",
-    "unix_timestamp": 1710900647
+    "unix_timestamp": 1710901583
   }
 ]
