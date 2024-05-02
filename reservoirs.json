@@ -20,7 +20,7 @@
     "time": 1714674600,
     "last_time": "2024-05-02 11:30:00",
     "last_time_z": "2024-05-02T18:30:00+0000",
-    "unix_timestamp": 1714676672
+    "unix_timestamp": 1714677798
   },
   {
     "name": "Cachuma Reservoir",
@@ -38,35 +38,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 754.25,
+    "last_value": 754.27,
     "unit": "ft",
-    "time": 1714676491,
-    "last_time": "2024-05-02 12:01:31",
-    "last_time_z": "2024-05-02T19:01:31+0000",
-    "unix_timestamp": 1714676672
-  },
-  {
-    "name": "Casitas Dam",
-    "site": "3f7db404-5c08-44ca-a8dd-f3031c957472",
-    "device": "6f63dcb1-9903-4fdf-8f37-1ffe17817dc9",
-    "site_id": 511,
-    "device_id": 4,
-    "site_alias": "LCAC1",
-    "device_alias": "Reservoir Level",
-    "coordinates": [
-      -119.33106,
-      34.36797
-    ],
-    "sensor": "Reservoir Level",
-    "sensor_class": 94,
-    "type": "Reservoir Level",
-    "status": 1,
-    "last_value": 567.02,
-    "unit": "ft",
-    "time": 1714672800,
-    "last_time": "2024-05-02 11:00:00",
-    "last_time_z": "2024-05-02T18:00:00+0000",
-    "unix_timestamp": 1714676672
+    "time": 1714677408,
+    "last_time": "2024-05-02 12:16:48",
+    "last_time_z": "2024-05-02T19:16:48+0000",
+    "unix_timestamp": 1714677798
   },
   {
     "name": "Getty Basin",
@@ -84,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 174.66,
+    "last_value": 174.59,
     "unit": "ft",
-    "time": 1714656161,
-    "last_time": "2024-05-02 06:22:41",
-    "last_time_z": "2024-05-02T13:22:41+0000",
-    "unix_timestamp": 1714676672
+    "time": 1714677763,
+    "last_time": "2024-05-02 12:22:43",
+    "last_time_z": "2024-05-02T19:22:43+0000",
+    "unix_timestamp": 1714677798
   },
   {
     "name": "Gibraltar Reservoir",
@@ -107,12 +84,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,400.04",
+    "last_value": "1,400.03",
     "unit": "ft",
-    "time": 1714674600,
-    "last_time": "2024-05-02 11:30:00",
-    "last_time_z": "2024-05-02T18:30:00+0000",
-    "unix_timestamp": 1714676672
+    "time": 1714676400,
+    "last_time": "2024-05-02 12:00:00",
+    "last_time_z": "2024-05-02T19:00:00+0000",
+    "unix_timestamp": 1714677798
   },
   {
     "name": "Jameson Reservoir",
@@ -132,10 +109,33 @@
     "status": 1,
     "last_value": "2,224.00",
     "unit": "ft",
-    "time": 1714673565,
-    "last_time": "2024-05-02 11:12:45",
-    "last_time_z": "2024-05-02T18:12:45+0000",
-    "unix_timestamp": 1714676672
+    "time": 1714677184,
+    "last_time": "2024-05-02 12:13:04",
+    "last_time_z": "2024-05-02T19:13:04+0000",
+    "unix_timestamp": 1714677798
+  },
+  {
+    "name": "Lake Casitas",
+    "site": "3f7db404-5c08-44ca-a8dd-f3031c957472",
+    "device": "6f63dcb1-9903-4fdf-8f37-1ffe17817dc9",
+    "site_id": 511,
+    "device_id": 4,
+    "site_alias": "LCAC1",
+    "device_alias": "Reservoir Level",
+    "coordinates": [
+      -119.33106,
+      34.36797
+    ],
+    "sensor": "Reservoir Level",
+    "sensor_class": 94,
+    "type": "Reservoir Level",
+    "status": 1,
+    "last_value": 567.02,
+    "unit": "ft",
+    "time": 1714672800,
+    "last_time": "2024-05-02 11:00:00",
+    "last_time_z": "2024-05-02T18:00:00+0000",
+    "unix_timestamp": 1714677798
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -155,10 +155,10 @@
     "status": 1,
     "last_value": 522.69,
     "unit": "ft",
-    "time": 1714676078,
-    "last_time": "2024-05-02 11:54:38",
-    "last_time_z": "2024-05-02T18:54:38+0000",
-    "unix_timestamp": 1714676672
+    "time": 1714676978,
+    "last_time": "2024-05-02 12:09:38",
+    "last_time_z": "2024-05-02T19:09:38+0000",
+    "unix_timestamp": 1714677798
   },
   {
     "name": "Twitchell Reservoir",
@@ -181,6 +181,6 @@
     "time": 1714676615,
     "last_time": "2024-05-02 12:03:35",
     "last_time_z": "2024-05-02T19:03:35+0000",
-    "unix_timestamp": 1714676672
+    "unix_timestamp": 1714677798
   }
 ]
