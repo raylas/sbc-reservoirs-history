@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 599.88,
+    "last_value": 599.87,
     "unit": "ft",
-    "time": 1718587800,
-    "last_time": "2024-06-16 18:30:00",
-    "last_time_z": "2024-06-17T01:30:00+0000",
-    "unix_timestamp": 1718591793
+    "time": 1718591400,
+    "last_time": "2024-06-16 19:30:00",
+    "last_time_z": "2024-06-17T02:30:00+0000",
+    "unix_timestamp": 1718592521
   },
   {
     "name": "Cachuma Reservoir",
@@ -38,12 +38,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 753.95,
+    "last_value": 753.93,
     "unit": "ft",
-    "time": 1718591524,
-    "last_time": "2024-06-16 19:32:04",
-    "last_time_z": "2024-06-17T02:32:04+0000",
-    "unix_timestamp": 1718591793
+    "time": 1718592124,
+    "last_time": "2024-06-16 19:42:04",
+    "last_time_z": "2024-06-17T02:42:04+0000",
+    "unix_timestamp": 1718592521
   },
   {
     "name": "Getty Basin",
@@ -66,7 +66,7 @@
     "time": 1718587453,
     "last_time": "2024-06-16 18:24:13",
     "last_time_z": "2024-06-17T01:24:13+0000",
-    "unix_timestamp": 1718591793
+    "unix_timestamp": 1718592521
   },
   {
     "name": "Gibraltar Reservoir",
@@ -89,7 +89,7 @@
     "time": 1718590500,
     "last_time": "2024-06-16 19:15:00",
     "last_time_z": "2024-06-17T02:15:00+0000",
-    "unix_timestamp": 1718591793
+    "unix_timestamp": 1718592521
   },
   {
     "name": "Jameson Reservoir",
@@ -112,7 +112,7 @@
     "time": 1718588977,
     "last_time": "2024-06-16 18:49:37",
     "last_time_z": "2024-06-17T01:49:37+0000",
-    "unix_timestamp": 1718591793
+    "unix_timestamp": 1718592521
   },
   {
     "name": "Lake Casitas",
@@ -135,7 +135,7 @@
     "time": 1718589600,
     "last_time": "2024-06-16 19:00:00",
     "last_time_z": "2024-06-17T02:00:00+0000",
-    "unix_timestamp": 1718591793
+    "unix_timestamp": 1718592521
   },
   {
     "name": "Twitchell Reservoir",
@@ -158,6 +158,6 @@
     "time": 1718591222,
     "last_time": "2024-06-16 19:27:02",
     "last_time_z": "2024-06-17T02:27:02+0000",
-    "unix_timestamp": 1718591793
+    "unix_timestamp": 1718592521
   }
 ]
