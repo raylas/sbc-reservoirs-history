@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 597.99,
+    "last_value": 597.98,
     "unit": "ft",
-    "time": 1730698200,
-    "last_time": "2024-11-03 21:30:00",
-    "last_time_z": "2024-11-04T05:30:00+0000",
-    "unix_timestamp": 1730701882
+    "time": 1730701800,
+    "last_time": "2024-11-03 22:30:00",
+    "last_time_z": "2024-11-04T06:30:00+0000",
+    "unix_timestamp": 1730702806
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 747.43,
     "unit": "ft",
-    "time": 1730701744,
-    "last_time": "2024-11-03 22:29:04",
-    "last_time_z": "2024-11-04T06:29:04+0000",
-    "unix_timestamp": 1730701882
+    "time": 1730702644,
+    "last_time": "2024-11-03 22:44:04",
+    "last_time_z": "2024-11-04T06:44:04+0000",
+    "unix_timestamp": 1730702806
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,382.38",
+    "last_value": "1,382.36",
     "unit": "ft",
-    "time": 1730700000,
-    "last_time": "2024-11-03 22:00:00",
-    "last_time_z": "2024-11-04T06:00:00+0000",
-    "unix_timestamp": 1730701882
+    "time": 1730700900,
+    "last_time": "2024-11-03 22:15:00",
+    "last_time_z": "2024-11-04T06:15:00+0000",
+    "unix_timestamp": 1730702806
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1730700926,
     "last_time": "2024-11-03 22:15:26",
     "last_time_z": "2024-11-04T06:15:26+0000",
-    "unix_timestamp": 1730701882
+    "unix_timestamp": 1730702806
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1730700000,
     "last_time": "2024-11-03 22:00:00",
     "last_time_z": "2024-11-04T06:00:00+0000",
-    "unix_timestamp": 1730701882
+    "unix_timestamp": 1730702806
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,7 +135,7 @@
     "time": 1730701634,
     "last_time": "2024-11-03 22:27:14",
     "last_time_z": "2024-11-04T06:27:14+0000",
-    "unix_timestamp": 1730701882
+    "unix_timestamp": 1730702806
   },
   {
     "name": "Twitchell Reservoir",
@@ -158,6 +158,6 @@
     "time": 1723818525,
     "last_time": "2024-08-16 07:28:45",
     "last_time_z": "2024-08-16T14:28:45+0000",
-    "unix_timestamp": 1730701882
+    "unix_timestamp": 1730702806
   }
 ]
