@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 595.06,
+    "last_value": 595.05,
     "unit": "ft",
-    "time": 1735263000,
-    "last_time": "2024-12-26 17:30:00",
-    "last_time_z": "2024-12-27T01:30:00+0000",
-    "unix_timestamp": 1735266436
+    "time": 1735266600,
+    "last_time": "2024-12-26 18:30:00",
+    "last_time_z": "2024-12-27T02:30:00+0000",
+    "unix_timestamp": 1735268132
   },
   {
     "name": "Cachuma Reservoir",
@@ -38,12 +38,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 746.01,
+    "last_value": 746.03,
     "unit": "ft",
-    "time": 1735265988,
-    "last_time": "2024-12-26 18:19:48",
-    "last_time_z": "2024-12-27T02:19:48+0000",
-    "unix_timestamp": 1735266436
+    "time": 1735267788,
+    "last_time": "2024-12-26 18:49:48",
+    "last_time_z": "2024-12-27T02:49:48+0000",
+    "unix_timestamp": 1735268132
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,377.66",
+    "last_value": "1,377.69",
     "unit": "ft",
-    "time": 1735264800,
-    "last_time": "2024-12-26 18:00:00",
-    "last_time_z": "2024-12-27T02:00:00+0000",
-    "unix_timestamp": 1735266436
+    "time": 1735266600,
+    "last_time": "2024-12-26 18:30:00",
+    "last_time_z": "2024-12-27T02:30:00+0000",
+    "unix_timestamp": 1735268132
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1735253243,
     "last_time": "2024-12-26 14:47:23",
     "last_time_z": "2024-12-26T22:47:23+0000",
-    "unix_timestamp": 1735266436
+    "unix_timestamp": 1735268132
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1735264800,
     "last_time": "2024-12-26 18:00:00",
     "last_time_z": "2024-12-27T02:00:00+0000",
-    "unix_timestamp": 1735266436
+    "unix_timestamp": 1735268132
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -132,10 +132,10 @@
     "status": 1,
     "last_value": 518.13,
     "unit": "ft",
-    "time": 1735265498,
-    "last_time": "2024-12-26 18:11:38",
-    "last_time_z": "2024-12-27T02:11:38+0000",
-    "unix_timestamp": 1735266436
+    "time": 1735267298,
+    "last_time": "2024-12-26 18:41:38",
+    "last_time_z": "2024-12-27T02:41:38+0000",
+    "unix_timestamp": 1735268132
   },
   {
     "name": "Twitchell Reservoir",
@@ -158,6 +158,6 @@
     "time": 1723818525,
     "last_time": "2024-08-16 07:28:45",
     "last_time_z": "2024-08-16T14:28:45+0000",
-    "unix_timestamp": 1735266436
+    "unix_timestamp": 1735268132
   }
 ]
