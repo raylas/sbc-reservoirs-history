@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 598.47,
     "unit": "ft",
-    "time": 1754471700,
-    "last_time": "2025-08-06 02:15:00",
-    "last_time_z": "2025-08-06T09:15:00+0000",
-    "unix_timestamp": 1754476262
+    "time": 1754475300,
+    "last_time": "2025-08-06 03:15:00",
+    "last_time_z": "2025-08-06T10:15:00+0000",
+    "unix_timestamp": 1754477294
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 740.44,
     "unit": "ft",
-    "time": 1754475162,
-    "last_time": "2025-08-06 03:12:42",
-    "last_time_z": "2025-08-06T10:12:42+0000",
-    "unix_timestamp": 1754476262
+    "time": 1754476362,
+    "last_time": "2025-08-06 03:32:42",
+    "last_time_z": "2025-08-06T10:32:42+0000",
+    "unix_timestamp": 1754477294
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,387.43",
+    "last_value": "1,387.45",
     "unit": "ft",
-    "time": 1754475300,
-    "last_time": "2025-08-06 03:15:00",
-    "last_time_z": "2025-08-06T10:15:00+0000",
-    "unix_timestamp": 1754476262
+    "time": 1754476200,
+    "last_time": "2025-08-06 03:30:00",
+    "last_time_z": "2025-08-06T10:30:00+0000",
+    "unix_timestamp": 1754477294
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1754475710,
     "last_time": "2025-08-06 03:21:50",
     "last_time_z": "2025-08-06T10:21:50+0000",
-    "unix_timestamp": 1754476262
+    "unix_timestamp": 1754477294
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1754474400,
     "last_time": "2025-08-06 03:00:00",
     "last_time_z": "2025-08-06T10:00:00+0000",
-    "unix_timestamp": 1754476262
+    "unix_timestamp": 1754477294
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1754475998,
     "last_time": "2025-08-06 03:26:38",
     "last_time_z": "2025-08-06T10:26:38+0000",
-    "unix_timestamp": 1754476262
+    "unix_timestamp": 1754477294
   }
 ]
