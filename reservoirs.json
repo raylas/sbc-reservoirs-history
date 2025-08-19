@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 598.19,
     "unit": "ft",
-    "time": 1755616500,
-    "last_time": "2025-08-19 08:15:00",
-    "last_time_z": "2025-08-19T15:15:00+0000",
-    "unix_timestamp": 1755621070
+    "time": 1755620100,
+    "last_time": "2025-08-19 09:15:00",
+    "last_time_z": "2025-08-19T16:15:00+0000",
+    "unix_timestamp": 1755622036
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 739.8,
     "unit": "ft",
-    "time": 1755619973,
-    "last_time": "2025-08-19 09:12:53",
-    "last_time_z": "2025-08-19T16:12:53+0000",
-    "unix_timestamp": 1755621070
+    "time": 1755621173,
+    "last_time": "2025-08-19 09:32:53",
+    "last_time_z": "2025-08-19T16:32:53+0000",
+    "unix_timestamp": 1755622036
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,385.24",
+    "last_value": "1,385.23",
     "unit": "ft",
-    "time": 1755619200,
-    "last_time": "2025-08-19 09:00:00",
-    "last_time_z": "2025-08-19T16:00:00+0000",
-    "unix_timestamp": 1755621070
+    "time": 1755620100,
+    "last_time": "2025-08-19 09:15:00",
+    "last_time_z": "2025-08-19T16:15:00+0000",
+    "unix_timestamp": 1755622036
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1755619212,
     "last_time": "2025-08-19 09:00:12",
     "last_time_z": "2025-08-19T16:00:12+0000",
-    "unix_timestamp": 1755621070
+    "unix_timestamp": 1755622036
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1755619200,
     "last_time": "2025-08-19 09:00:00",
     "last_time_z": "2025-08-19T16:00:00+0000",
-    "unix_timestamp": 1755621070
+    "unix_timestamp": 1755622036
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1755620798,
     "last_time": "2025-08-19 09:26:38",
     "last_time_z": "2025-08-19T16:26:38+0000",
-    "unix_timestamp": 1755621070
+    "unix_timestamp": 1755622036
   }
 ]
