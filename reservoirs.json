@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 597.24,
     "unit": "ft",
-    "time": 1759900500,
-    "last_time": "2025-10-07 22:15:00",
-    "last_time_z": "2025-10-08T05:15:00+0000",
-    "unix_timestamp": 1759905111
+    "time": 1759904100,
+    "last_time": "2025-10-07 23:15:00",
+    "last_time_z": "2025-10-08T06:15:00+0000",
+    "unix_timestamp": 1759906070
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 737.49,
     "unit": "ft",
-    "time": 1759904012,
-    "last_time": "2025-10-07 23:13:32",
-    "last_time_z": "2025-10-08T06:13:32+0000",
-    "unix_timestamp": 1759905111
+    "time": 1759905212,
+    "last_time": "2025-10-07 23:33:32",
+    "last_time_z": "2025-10-08T06:33:32+0000",
+    "unix_timestamp": 1759906070
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,378.80",
+    "last_value": "1,378.79",
     "unit": "ft",
-    "time": 1759903200,
-    "last_time": "2025-10-07 23:00:00",
-    "last_time_z": "2025-10-08T06:00:00+0000",
-    "unix_timestamp": 1759905111
+    "time": 1759904100,
+    "last_time": "2025-10-07 23:15:00",
+    "last_time_z": "2025-10-08T06:15:00+0000",
+    "unix_timestamp": 1759906070
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1759903726,
     "last_time": "2025-10-07 23:08:46",
     "last_time_z": "2025-10-08T06:08:46+0000",
-    "unix_timestamp": 1759905111
+    "unix_timestamp": 1759906070
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1759903200,
     "last_time": "2025-10-07 23:00:00",
     "last_time_z": "2025-10-08T06:00:00+0000",
-    "unix_timestamp": 1759905111
+    "unix_timestamp": 1759906070
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1759904798,
     "last_time": "2025-10-07 23:26:38",
     "last_time_z": "2025-10-08T06:26:38+0000",
-    "unix_timestamp": 1759905111
+    "unix_timestamp": 1759906070
   }
 ]
