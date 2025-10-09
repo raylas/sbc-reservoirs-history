@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 597.23,
     "unit": "ft",
-    "time": 1759976100,
-    "last_time": "2025-10-08 19:15:00",
-    "last_time_z": "2025-10-09T02:15:00+0000",
-    "unix_timestamp": 1759980734
+    "time": 1759979700,
+    "last_time": "2025-10-08 20:15:00",
+    "last_time_z": "2025-10-09T03:15:00+0000",
+    "unix_timestamp": 1759981640
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 737.45,
     "unit": "ft",
-    "time": 1759979613,
-    "last_time": "2025-10-08 20:13:33",
-    "last_time_z": "2025-10-09T03:13:33+0000",
-    "unix_timestamp": 1759980734
+    "time": 1759980813,
+    "last_time": "2025-10-08 20:33:33",
+    "last_time_z": "2025-10-09T03:33:33+0000",
+    "unix_timestamp": 1759981640
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,378.79",
+    "last_value": "1,378.77",
     "unit": "ft",
-    "time": 1759978800,
-    "last_time": "2025-10-08 20:00:00",
-    "last_time_z": "2025-10-09T03:00:00+0000",
-    "unix_timestamp": 1759980734
+    "time": 1759979700,
+    "last_time": "2025-10-08 20:15:00",
+    "last_time_z": "2025-10-09T03:15:00+0000",
+    "unix_timestamp": 1759981640
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1759979718,
     "last_time": "2025-10-08 20:15:18",
     "last_time_z": "2025-10-09T03:15:18+0000",
-    "unix_timestamp": 1759980734
+    "unix_timestamp": 1759981640
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1759978800,
     "last_time": "2025-10-08 20:00:00",
     "last_time_z": "2025-10-09T03:00:00+0000",
-    "unix_timestamp": 1759980734
+    "unix_timestamp": 1759981640
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1759980398,
     "last_time": "2025-10-08 20:26:38",
     "last_time_z": "2025-10-09T03:26:38+0000",
-    "unix_timestamp": 1759980734
+    "unix_timestamp": 1759981640
   }
 ]
