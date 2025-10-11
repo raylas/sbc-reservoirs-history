@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 597.2,
     "unit": "ft",
-    "time": 1760148900,
-    "last_time": "2025-10-10 19:15:00",
-    "last_time_z": "2025-10-11T02:15:00+0000",
-    "unix_timestamp": 1760153455
+    "time": 1760152500,
+    "last_time": "2025-10-10 20:15:00",
+    "last_time_z": "2025-10-11T03:15:00+0000",
+    "unix_timestamp": 1760154288
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 737.32,
     "unit": "ft",
-    "time": 1760152414,
-    "last_time": "2025-10-10 20:13:34",
-    "last_time_z": "2025-10-11T03:13:34+0000",
-    "unix_timestamp": 1760153455
+    "time": 1760153614,
+    "last_time": "2025-10-10 20:33:34",
+    "last_time_z": "2025-10-11T03:33:34+0000",
+    "unix_timestamp": 1760154288
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,378.76",
+    "last_value": "1,378.77",
     "unit": "ft",
-    "time": 1760151600,
-    "last_time": "2025-10-10 20:00:00",
-    "last_time_z": "2025-10-11T03:00:00+0000",
-    "unix_timestamp": 1760153455
+    "time": 1760152500,
+    "last_time": "2025-10-10 20:15:00",
+    "last_time_z": "2025-10-11T03:15:00+0000",
+    "unix_timestamp": 1760154288
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1760153415,
     "last_time": "2025-10-10 20:30:15",
     "last_time_z": "2025-10-11T03:30:15+0000",
-    "unix_timestamp": 1760153455
+    "unix_timestamp": 1760154288
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1760151600,
     "last_time": "2025-10-10 20:00:00",
     "last_time_z": "2025-10-11T03:00:00+0000",
-    "unix_timestamp": 1760153455
+    "unix_timestamp": 1760154288
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1760153198,
     "last_time": "2025-10-10 20:26:38",
     "last_time_z": "2025-10-11T03:26:38+0000",
-    "unix_timestamp": 1760153455
+    "unix_timestamp": 1760154288
   }
 ]
