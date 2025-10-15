@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 597.35,
+    "last_value": 597.34,
     "unit": "ft",
-    "time": 1760548500,
-    "last_time": "2025-10-15 10:15:00",
-    "last_time_z": "2025-10-15T17:15:00+0000",
-    "unix_timestamp": 1760553114
+    "time": 1760552100,
+    "last_time": "2025-10-15 11:15:00",
+    "last_time_z": "2025-10-15T18:15:00+0000",
+    "unix_timestamp": 1760554066
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 737.31,
     "unit": "ft",
-    "time": 1760552017,
-    "last_time": "2025-10-15 11:13:37",
-    "last_time_z": "2025-10-15T18:13:37+0000",
-    "unix_timestamp": 1760553114
+    "time": 1760553217,
+    "last_time": "2025-10-15 11:33:37",
+    "last_time_z": "2025-10-15T18:33:37+0000",
+    "unix_timestamp": 1760554066
   },
   {
     "name": "Gibraltar Reservoir",
@@ -63,10 +63,10 @@
     "status": 1,
     "last_value": "1,378.82",
     "unit": "ft",
-    "time": 1760552100,
-    "last_time": "2025-10-15 11:15:00",
-    "last_time_z": "2025-10-15T18:15:00+0000",
-    "unix_timestamp": 1760553114
+    "time": 1760553000,
+    "last_time": "2025-10-15 11:30:00",
+    "last_time_z": "2025-10-15T18:30:00+0000",
+    "unix_timestamp": 1760554066
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1760551470,
     "last_time": "2025-10-15 11:04:30",
     "last_time_z": "2025-10-15T18:04:30+0000",
-    "unix_timestamp": 1760553114
+    "unix_timestamp": 1760554066
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1760551200,
     "last_time": "2025-10-15 11:00:00",
     "last_time_z": "2025-10-15T18:00:00+0000",
-    "unix_timestamp": 1760553114
+    "unix_timestamp": 1760554066
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1760552828,
     "last_time": "2025-10-15 11:27:08",
     "last_time_z": "2025-10-15T18:27:08+0000",
-    "unix_timestamp": 1760553114
+    "unix_timestamp": 1760554066
   }
 ]
