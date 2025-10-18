@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 597.31,
     "unit": "ft",
-    "time": 1760764500,
-    "last_time": "2025-10-17 22:15:00",
-    "last_time_z": "2025-10-18T05:15:00+0000",
-    "unix_timestamp": 1760769088
+    "time": 1760768100,
+    "last_time": "2025-10-17 23:15:00",
+    "last_time_z": "2025-10-18T06:15:00+0000",
+    "unix_timestamp": 1760769989
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 737.21,
     "unit": "ft",
-    "time": 1760768019,
-    "last_time": "2025-10-17 23:13:39",
-    "last_time_z": "2025-10-18T06:13:39+0000",
-    "unix_timestamp": 1760769088
+    "time": 1760769219,
+    "last_time": "2025-10-17 23:33:39",
+    "last_time_z": "2025-10-18T06:33:39+0000",
+    "unix_timestamp": 1760769989
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,378.79",
+    "last_value": "1,378.77",
     "unit": "ft",
-    "time": 1760767200,
-    "last_time": "2025-10-17 23:00:00",
-    "last_time_z": "2025-10-18T06:00:00+0000",
-    "unix_timestamp": 1760769088
+    "time": 1760768100,
+    "last_time": "2025-10-17 23:15:00",
+    "last_time_z": "2025-10-18T06:15:00+0000",
+    "unix_timestamp": 1760769989
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1760768591,
     "last_time": "2025-10-17 23:23:11",
     "last_time_z": "2025-10-18T06:23:11+0000",
-    "unix_timestamp": 1760769088
+    "unix_timestamp": 1760769989
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1760767200,
     "last_time": "2025-10-17 23:00:00",
     "last_time_z": "2025-10-18T06:00:00+0000",
-    "unix_timestamp": 1760769088
+    "unix_timestamp": 1760769989
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1760768798,
     "last_time": "2025-10-17 23:26:38",
     "last_time_z": "2025-10-18T06:26:38+0000",
-    "unix_timestamp": 1760769088
+    "unix_timestamp": 1760769989
   }
 ]
