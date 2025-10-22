@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 597.26,
     "unit": "ft",
-    "time": 1761120900,
-    "last_time": "2025-10-22 01:15:00",
-    "last_time_z": "2025-10-22T08:15:00+0000",
-    "unix_timestamp": 1761125422
+    "time": 1761124500,
+    "last_time": "2025-10-22 02:15:00",
+    "last_time_z": "2025-10-22T09:15:00+0000",
+    "unix_timestamp": 1761126302
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 737.03,
     "unit": "ft",
-    "time": 1761124423,
-    "last_time": "2025-10-22 02:13:43",
-    "last_time_z": "2025-10-22T09:13:43+0000",
-    "unix_timestamp": 1761125422
+    "time": 1761125623,
+    "last_time": "2025-10-22 02:33:43",
+    "last_time_z": "2025-10-22T09:33:43+0000",
+    "unix_timestamp": 1761126302
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,378.72",
+    "last_value": "1,378.74",
     "unit": "ft",
-    "time": 1761123600,
-    "last_time": "2025-10-22 02:00:00",
-    "last_time_z": "2025-10-22T09:00:00+0000",
-    "unix_timestamp": 1761125422
+    "time": 1761124500,
+    "last_time": "2025-10-22 02:15:00",
+    "last_time_z": "2025-10-22T09:15:00+0000",
+    "unix_timestamp": 1761126302
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1761123223,
     "last_time": "2025-10-22 01:53:43",
     "last_time_z": "2025-10-22T08:53:43+0000",
-    "unix_timestamp": 1761125422
+    "unix_timestamp": 1761126302
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1761123600,
     "last_time": "2025-10-22 02:00:00",
     "last_time_z": "2025-10-22T09:00:00+0000",
-    "unix_timestamp": 1761125422
+    "unix_timestamp": 1761126302
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1761125198,
     "last_time": "2025-10-22 02:26:38",
     "last_time_z": "2025-10-22T09:26:38+0000",
-    "unix_timestamp": 1761125422
+    "unix_timestamp": 1761126302
   }
 ]
