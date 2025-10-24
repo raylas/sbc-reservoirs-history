@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 597.25,
     "unit": "ft",
-    "time": 1761272100,
-    "last_time": "2025-10-23 19:15:00",
-    "last_time_z": "2025-10-24T02:15:00+0000",
-    "unix_timestamp": 1761276765
+    "time": 1761275700,
+    "last_time": "2025-10-23 20:15:00",
+    "last_time_z": "2025-10-24T03:15:00+0000",
+    "unix_timestamp": 1761277659
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 736.95,
     "unit": "ft",
-    "time": 1761275625,
-    "last_time": "2025-10-23 20:13:45",
-    "last_time_z": "2025-10-24T03:13:45+0000",
-    "unix_timestamp": 1761276765
+    "time": 1761276825,
+    "last_time": "2025-10-23 20:33:45",
+    "last_time_z": "2025-10-24T03:33:45+0000",
+    "unix_timestamp": 1761277659
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,378.74",
+    "last_value": "1,378.72",
     "unit": "ft",
-    "time": 1761274800,
-    "last_time": "2025-10-23 20:00:00",
-    "last_time_z": "2025-10-24T03:00:00+0000",
-    "unix_timestamp": 1761276765
+    "time": 1761275700,
+    "last_time": "2025-10-23 20:15:00",
+    "last_time_z": "2025-10-24T03:15:00+0000",
+    "unix_timestamp": 1761277659
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1761275207,
     "last_time": "2025-10-23 20:06:47",
     "last_time_z": "2025-10-24T03:06:47+0000",
-    "unix_timestamp": 1761276765
+    "unix_timestamp": 1761277659
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1761274800,
     "last_time": "2025-10-23 20:00:00",
     "last_time_z": "2025-10-24T03:00:00+0000",
-    "unix_timestamp": 1761276765
+    "unix_timestamp": 1761277659
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1761276398,
     "last_time": "2025-10-23 20:26:38",
     "last_time_z": "2025-10-24T03:26:38+0000",
-    "unix_timestamp": 1761276765
+    "unix_timestamp": 1761277659
   }
 ]
