@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 597.15,
     "unit": "ft",
-    "time": 1762150500,
-    "last_time": "2025-11-02 22:15:00",
-    "last_time_z": "2025-11-03T06:15:00+0000",
-    "unix_timestamp": 1762154901
+    "time": 1762154100,
+    "last_time": "2025-11-02 23:15:00",
+    "last_time_z": "2025-11-03T07:15:00+0000",
+    "unix_timestamp": 1762155822
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 736.45,
     "unit": "ft",
-    "time": 1762154033,
-    "last_time": "2025-11-02 23:13:53",
-    "last_time_z": "2025-11-03T07:13:53+0000",
-    "unix_timestamp": 1762154901
+    "time": 1762155233,
+    "last_time": "2025-11-02 23:33:53",
+    "last_time_z": "2025-11-03T07:33:53+0000",
+    "unix_timestamp": 1762155822
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,378.60",
+    "last_value": "1,378.61",
     "unit": "ft",
-    "time": 1762153200,
-    "last_time": "2025-11-02 23:00:00",
-    "last_time_z": "2025-11-03T07:00:00+0000",
-    "unix_timestamp": 1762154901
+    "time": 1762154100,
+    "last_time": "2025-11-02 23:15:00",
+    "last_time_z": "2025-11-03T07:15:00+0000",
+    "unix_timestamp": 1762155822
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1762154810,
     "last_time": "2025-11-02 23:26:50",
     "last_time_z": "2025-11-03T07:26:50+0000",
-    "unix_timestamp": 1762154901
+    "unix_timestamp": 1762155822
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1762153200,
     "last_time": "2025-11-02 23:00:00",
     "last_time_z": "2025-11-03T07:00:00+0000",
-    "unix_timestamp": 1762154901
+    "unix_timestamp": 1762155822
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -130,11 +130,11 @@
     "sensor_class": 94,
     "type": "Reservoir Elevation",
     "status": 1,
-    "last_value": 511.5,
+    "last_value": 511.51,
     "unit": "ft",
-    "time": 1762153898,
-    "last_time": "2025-11-02 23:11:38",
-    "last_time_z": "2025-11-03T07:11:38+0000",
-    "unix_timestamp": 1762154901
+    "time": 1762154798,
+    "last_time": "2025-11-02 23:26:38",
+    "last_time_z": "2025-11-03T07:26:38+0000",
+    "unix_timestamp": 1762155822
   }
 ]
