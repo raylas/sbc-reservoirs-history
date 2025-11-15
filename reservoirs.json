@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 597.95,
+    "last_value": 597.96,
     "unit": "ft",
-    "time": 1763190900,
-    "last_time": "2025-11-14 23:15:00",
-    "last_time_z": "2025-11-15T07:15:00+0000",
-    "unix_timestamp": 1763195447
+    "time": 1763194500,
+    "last_time": "2025-11-15 00:15:00",
+    "last_time_z": "2025-11-15T08:15:00+0000",
+    "unix_timestamp": 1763196338
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 736.18,
     "unit": "ft",
-    "time": 1763194425,
-    "last_time": "2025-11-15 00:13:45",
-    "last_time_z": "2025-11-15T08:13:45+0000",
-    "unix_timestamp": 1763195447
+    "time": 1763195625,
+    "last_time": "2025-11-15 00:33:45",
+    "last_time_z": "2025-11-15T08:33:45+0000",
+    "unix_timestamp": 1763196338
   },
   {
     "name": "Gibraltar Reservoir",
@@ -63,10 +63,10 @@
     "status": 1,
     "last_value": "1,376.87",
     "unit": "ft",
-    "time": 1763193600,
-    "last_time": "2025-11-15 00:00:00",
-    "last_time_z": "2025-11-15T08:00:00+0000",
-    "unix_timestamp": 1763195447
+    "time": 1763194500,
+    "last_time": "2025-11-15 00:15:00",
+    "last_time_z": "2025-11-15T08:15:00+0000",
+    "unix_timestamp": 1763196338
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1763193371,
     "last_time": "2025-11-14 23:56:11",
     "last_time_z": "2025-11-15T07:56:11+0000",
-    "unix_timestamp": 1763195447
+    "unix_timestamp": 1763196338
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1763193600,
     "last_time": "2025-11-15 00:00:00",
     "last_time_z": "2025-11-15T08:00:00+0000",
-    "unix_timestamp": 1763195447
+    "unix_timestamp": 1763196338
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1763195198,
     "last_time": "2025-11-15 00:26:38",
     "last_time_z": "2025-11-15T08:26:38+0000",
-    "unix_timestamp": 1763195447
+    "unix_timestamp": 1763196338
   }
 ]
