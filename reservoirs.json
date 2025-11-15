@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 597.9,
+    "last_value": 597.91,
     "unit": "ft",
-    "time": 1763176500,
-    "last_time": "2025-11-14 19:15:00",
-    "last_time_z": "2025-11-15T03:15:00+0000",
-    "unix_timestamp": 1763181013
+    "time": 1763180100,
+    "last_time": "2025-11-14 20:15:00",
+    "last_time_z": "2025-11-15T04:15:00+0000",
+    "unix_timestamp": 1763181893
   },
   {
     "name": "Cachuma Reservoir",
@@ -38,12 +38,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 736.16,
+    "last_value": 736.17,
     "unit": "ft",
-    "time": 1763180024,
-    "last_time": "2025-11-14 20:13:44",
-    "last_time_z": "2025-11-15T04:13:44+0000",
-    "unix_timestamp": 1763181013
+    "time": 1763181224,
+    "last_time": "2025-11-14 20:33:44",
+    "last_time_z": "2025-11-15T04:33:44+0000",
+    "unix_timestamp": 1763181893
   },
   {
     "name": "Gibraltar Reservoir",
@@ -63,10 +63,10 @@
     "status": 1,
     "last_value": "1,376.84",
     "unit": "ft",
-    "time": 1763179200,
-    "last_time": "2025-11-14 20:00:00",
-    "last_time_z": "2025-11-15T04:00:00+0000",
-    "unix_timestamp": 1763181013
+    "time": 1763180100,
+    "last_time": "2025-11-14 20:15:00",
+    "last_time_z": "2025-11-15T04:15:00+0000",
+    "unix_timestamp": 1763181893
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1763178897,
     "last_time": "2025-11-14 19:54:57",
     "last_time_z": "2025-11-15T03:54:57+0000",
-    "unix_timestamp": 1763181013
+    "unix_timestamp": 1763181893
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1763179200,
     "last_time": "2025-11-14 20:00:00",
     "last_time_z": "2025-11-15T04:00:00+0000",
-    "unix_timestamp": 1763181013
+    "unix_timestamp": 1763181893
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1763180798,
     "last_time": "2025-11-14 20:26:38",
     "last_time_z": "2025-11-15T04:26:38+0000",
-    "unix_timestamp": 1763181013
+    "unix_timestamp": 1763181893
   }
 ]
