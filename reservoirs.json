@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 598.39,
+    "last_value": 598.44,
     "unit": "ft",
-    "time": 1763270100,
-    "last_time": "2025-11-15 21:15:00",
-    "last_time_z": "2025-11-16T05:15:00+0000",
-    "unix_timestamp": 1763274717
+    "time": 1763273700,
+    "last_time": "2025-11-15 22:15:00",
+    "last_time_z": "2025-11-16T06:15:00+0000",
+    "unix_timestamp": 1763275662
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 736.41,
     "unit": "ft",
-    "time": 1763273625,
-    "last_time": "2025-11-15 22:13:45",
-    "last_time_z": "2025-11-16T06:13:45+0000",
-    "unix_timestamp": 1763274717
+    "time": 1763274825,
+    "last_time": "2025-11-15 22:33:45",
+    "last_time_z": "2025-11-16T06:33:45+0000",
+    "unix_timestamp": 1763275662
   },
   {
     "name": "Gibraltar Reservoir",
@@ -63,10 +63,10 @@
     "status": 1,
     "last_value": "1,377.33",
     "unit": "ft",
-    "time": 1763272800,
-    "last_time": "2025-11-15 22:00:00",
-    "last_time_z": "2025-11-16T06:00:00+0000",
-    "unix_timestamp": 1763274717
+    "time": 1763273700,
+    "last_time": "2025-11-15 22:15:00",
+    "last_time_z": "2025-11-16T06:15:00+0000",
+    "unix_timestamp": 1763275662
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1763272983,
     "last_time": "2025-11-15 22:03:03",
     "last_time_z": "2025-11-16T06:03:03+0000",
-    "unix_timestamp": 1763274717
+    "unix_timestamp": 1763275662
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1763272800,
     "last_time": "2025-11-15 22:00:00",
     "last_time_z": "2025-11-16T06:00:00+0000",
-    "unix_timestamp": 1763274717
+    "unix_timestamp": 1763275662
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1763274398,
     "last_time": "2025-11-15 22:26:38",
     "last_time_z": "2025-11-16T06:26:38+0000",
-    "unix_timestamp": 1763274717
+    "unix_timestamp": 1763275662
   }
 ]
