@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 598.29,
+    "last_value": 598.27,
     "unit": "ft",
-    "time": 1763867700,
-    "last_time": "2025-11-22 19:15:00",
-    "last_time_z": "2025-11-23T03:15:00+0000",
-    "unix_timestamp": 1763872338
+    "time": 1763871300,
+    "last_time": "2025-11-22 20:15:00",
+    "last_time_z": "2025-11-23T04:15:00+0000",
+    "unix_timestamp": 1763873340
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 737.31,
     "unit": "ft",
-    "time": 1763871229,
-    "last_time": "2025-11-22 20:13:49",
-    "last_time_z": "2025-11-23T04:13:49+0000",
-    "unix_timestamp": 1763872338
+    "time": 1763872429,
+    "last_time": "2025-11-22 20:33:49",
+    "last_time_z": "2025-11-23T04:33:49+0000",
+    "unix_timestamp": 1763873340
   },
   {
     "name": "Gibraltar Reservoir",
@@ -63,10 +63,10 @@
     "status": 1,
     "last_value": "1,384.51",
     "unit": "ft",
-    "time": 1763870400,
-    "last_time": "2025-11-22 20:00:00",
-    "last_time_z": "2025-11-23T04:00:00+0000",
-    "unix_timestamp": 1763872338
+    "time": 1763871300,
+    "last_time": "2025-11-22 20:15:00",
+    "last_time_z": "2025-11-23T04:15:00+0000",
+    "unix_timestamp": 1763873340
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1763870068,
     "last_time": "2025-11-22 19:54:28",
     "last_time_z": "2025-11-23T03:54:28+0000",
-    "unix_timestamp": 1763872338
+    "unix_timestamp": 1763873340
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1763870400,
     "last_time": "2025-11-22 20:00:00",
     "last_time_z": "2025-11-23T04:00:00+0000",
-    "unix_timestamp": 1763872338
+    "unix_timestamp": 1763873340
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1763871998,
     "last_time": "2025-11-22 20:26:38",
     "last_time_z": "2025-11-23T04:26:38+0000",
-    "unix_timestamp": 1763872338
+    "unix_timestamp": 1763873340
   }
 ]
