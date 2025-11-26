@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 597.44,
     "unit": "ft",
-    "time": 1764144900,
-    "last_time": "2025-11-26 00:15:00",
-    "last_time_z": "2025-11-26T08:15:00+0000",
-    "unix_timestamp": 1764149447
+    "time": 1764148500,
+    "last_time": "2025-11-26 01:15:00",
+    "last_time_z": "2025-11-26T09:15:00+0000",
+    "unix_timestamp": 1764150363
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 737.27,
     "unit": "ft",
-    "time": 1764148431,
-    "last_time": "2025-11-26 01:13:51",
-    "last_time_z": "2025-11-26T09:13:51+0000",
-    "unix_timestamp": 1764149447
+    "time": 1764149631,
+    "last_time": "2025-11-26 01:33:51",
+    "last_time_z": "2025-11-26T09:33:51+0000",
+    "unix_timestamp": 1764150363
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,384.98",
+    "last_value": "1,385.01",
     "unit": "ft",
-    "time": 1764147600,
-    "last_time": "2025-11-26 01:00:00",
-    "last_time_z": "2025-11-26T09:00:00+0000",
-    "unix_timestamp": 1764149447
+    "time": 1764148500,
+    "last_time": "2025-11-26 01:15:00",
+    "last_time_z": "2025-11-26T09:15:00+0000",
+    "unix_timestamp": 1764150363
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1764148707,
     "last_time": "2025-11-26 01:18:27",
     "last_time_z": "2025-11-26T09:18:27+0000",
-    "unix_timestamp": 1764149447
+    "unix_timestamp": 1764150363
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1764147600,
     "last_time": "2025-11-26 01:00:00",
     "last_time_z": "2025-11-26T09:00:00+0000",
-    "unix_timestamp": 1764149447
+    "unix_timestamp": 1764150363
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1764149198,
     "last_time": "2025-11-26 01:26:38",
     "last_time_z": "2025-11-26T09:26:38+0000",
-    "unix_timestamp": 1764149447
+    "unix_timestamp": 1764150363
   }
 ]
