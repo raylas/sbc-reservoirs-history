@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 597.71,
+    "last_value": 597.72,
     "unit": "ft",
-    "time": 1764602100,
-    "last_time": "2025-12-01 07:15:00",
-    "last_time_z": "2025-12-01T15:15:00+0000",
-    "unix_timestamp": 1764606717
+    "time": 1764605700,
+    "last_time": "2025-12-01 08:15:00",
+    "last_time_z": "2025-12-01T16:15:00+0000",
+    "unix_timestamp": 1764607759
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 737.19,
     "unit": "ft",
-    "time": 1764605635,
-    "last_time": "2025-12-01 08:13:55",
-    "last_time_z": "2025-12-01T16:13:55+0000",
-    "unix_timestamp": 1764606717
+    "time": 1764606835,
+    "last_time": "2025-12-01 08:33:55",
+    "last_time_z": "2025-12-01T16:33:55+0000",
+    "unix_timestamp": 1764607759
   },
   {
     "name": "Gibraltar Reservoir",
@@ -63,10 +63,10 @@
     "status": 1,
     "last_value": "1,385.52",
     "unit": "ft",
-    "time": 1764604800,
-    "last_time": "2025-12-01 08:00:00",
-    "last_time_z": "2025-12-01T16:00:00+0000",
-    "unix_timestamp": 1764606717
+    "time": 1764605700,
+    "last_time": "2025-12-01 08:15:00",
+    "last_time_z": "2025-12-01T16:15:00+0000",
+    "unix_timestamp": 1764607759
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1764604663,
     "last_time": "2025-12-01 07:57:43",
     "last_time_z": "2025-12-01T15:57:43+0000",
-    "unix_timestamp": 1764606717
+    "unix_timestamp": 1764607759
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1764604800,
     "last_time": "2025-12-01 08:00:00",
     "last_time_z": "2025-12-01T16:00:00+0000",
-    "unix_timestamp": 1764606717
+    "unix_timestamp": 1764607759
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1764606398,
     "last_time": "2025-12-01 08:26:38",
     "last_time_z": "2025-12-01T16:26:38+0000",
-    "unix_timestamp": 1764606717
+    "unix_timestamp": 1764607759
   }
 ]
