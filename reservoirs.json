@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 597.88,
     "unit": "ft",
-    "time": 1765077300,
-    "last_time": "2025-12-06 19:15:00",
-    "last_time_z": "2025-12-07T03:15:00+0000",
-    "unix_timestamp": 1765081941
+    "time": 1765080900,
+    "last_time": "2025-12-06 20:15:00",
+    "last_time_z": "2025-12-07T04:15:00+0000",
+    "unix_timestamp": 1765082909
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 737.07,
     "unit": "ft",
-    "time": 1765080839,
-    "last_time": "2025-12-06 20:13:59",
-    "last_time_z": "2025-12-07T04:13:59+0000",
-    "unix_timestamp": 1765081941
+    "time": 1765082039,
+    "last_time": "2025-12-06 20:33:59",
+    "last_time_z": "2025-12-07T04:33:59+0000",
+    "unix_timestamp": 1765082909
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,385.96",
+    "last_value": "1,385.98",
     "unit": "ft",
-    "time": 1765080000,
-    "last_time": "2025-12-06 20:00:00",
-    "last_time_z": "2025-12-07T04:00:00+0000",
-    "unix_timestamp": 1765081941
+    "time": 1765080900,
+    "last_time": "2025-12-06 20:15:00",
+    "last_time_z": "2025-12-07T04:15:00+0000",
+    "unix_timestamp": 1765082909
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1765078712,
     "last_time": "2025-12-06 19:38:32",
     "last_time_z": "2025-12-07T03:38:32+0000",
-    "unix_timestamp": 1765081941
+    "unix_timestamp": 1765082909
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1765080000,
     "last_time": "2025-12-06 20:00:00",
     "last_time_z": "2025-12-07T04:00:00+0000",
-    "unix_timestamp": 1765081941
+    "unix_timestamp": 1765082909
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1765081628,
     "last_time": "2025-12-06 20:27:08",
     "last_time_z": "2025-12-07T04:27:08+0000",
-    "unix_timestamp": 1765081941
+    "unix_timestamp": 1765082909
   }
 ]
