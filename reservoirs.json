@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 597.95,
+    "last_value": 597.94,
     "unit": "ft",
-    "time": 1765300500,
-    "last_time": "2025-12-09 09:15:00",
-    "last_time_z": "2025-12-09T17:15:00+0000",
-    "unix_timestamp": 1765305105
+    "time": 1765304100,
+    "last_time": "2025-12-09 10:15:00",
+    "last_time_z": "2025-12-09T18:15:00+0000",
+    "unix_timestamp": 1765306118
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 737.02,
     "unit": "ft",
-    "time": 1765304041,
-    "last_time": "2025-12-09 10:14:01",
-    "last_time_z": "2025-12-09T18:14:01+0000",
-    "unix_timestamp": 1765305105
+    "time": 1765305241,
+    "last_time": "2025-12-09 10:34:01",
+    "last_time_z": "2025-12-09T18:34:01+0000",
+    "unix_timestamp": 1765306118
   },
   {
     "name": "Gibraltar Reservoir",
@@ -63,10 +63,10 @@
     "status": 1,
     "last_value": "1,386.17",
     "unit": "ft",
-    "time": 1765303200,
-    "last_time": "2025-12-09 10:00:00",
-    "last_time_z": "2025-12-09T18:00:00+0000",
-    "unix_timestamp": 1765305105
+    "time": 1765304100,
+    "last_time": "2025-12-09 10:15:00",
+    "last_time_z": "2025-12-09T18:15:00+0000",
+    "unix_timestamp": 1765306118
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1765303071,
     "last_time": "2025-12-09 09:57:51",
     "last_time_z": "2025-12-09T17:57:51+0000",
-    "unix_timestamp": 1765305105
+    "unix_timestamp": 1765306118
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1765303200,
     "last_time": "2025-12-09 10:00:00",
     "last_time_z": "2025-12-09T18:00:00+0000",
-    "unix_timestamp": 1765305105
+    "unix_timestamp": 1765306118
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1765304798,
     "last_time": "2025-12-09 10:26:38",
     "last_time_z": "2025-12-09T18:26:38+0000",
-    "unix_timestamp": 1765305105
+    "unix_timestamp": 1765306118
   }
 ]
