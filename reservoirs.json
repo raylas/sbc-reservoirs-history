@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 597.96,
     "unit": "ft",
-    "time": 1765350900,
-    "last_time": "2025-12-09 23:15:00",
-    "last_time_z": "2025-12-10T07:15:00+0000",
-    "unix_timestamp": 1765355525
+    "time": 1765354500,
+    "last_time": "2025-12-10 00:15:00",
+    "last_time_z": "2025-12-10T08:15:00+0000",
+    "unix_timestamp": 1765356539
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 737.02,
     "unit": "ft",
-    "time": 1765354441,
-    "last_time": "2025-12-10 00:14:01",
-    "last_time_z": "2025-12-10T08:14:01+0000",
-    "unix_timestamp": 1765355525
+    "time": 1765355641,
+    "last_time": "2025-12-10 00:34:01",
+    "last_time_z": "2025-12-10T08:34:01+0000",
+    "unix_timestamp": 1765356539
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,386.22",
+    "last_value": "1,386.28",
     "unit": "ft",
-    "time": 1765353600,
-    "last_time": "2025-12-10 00:00:00",
-    "last_time_z": "2025-12-10T08:00:00+0000",
-    "unix_timestamp": 1765355525
+    "time": 1765354500,
+    "last_time": "2025-12-10 00:15:00",
+    "last_time_z": "2025-12-10T08:15:00+0000",
+    "unix_timestamp": 1765356539
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1765353733,
     "last_time": "2025-12-10 00:02:13",
     "last_time_z": "2025-12-10T08:02:13+0000",
-    "unix_timestamp": 1765355525
+    "unix_timestamp": 1765356539
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1765353600,
     "last_time": "2025-12-10 00:00:00",
     "last_time_z": "2025-12-10T08:00:00+0000",
-    "unix_timestamp": 1765355525
+    "unix_timestamp": 1765356539
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1765355198,
     "last_time": "2025-12-10 00:26:38",
     "last_time_z": "2025-12-10T08:26:38+0000",
-    "unix_timestamp": 1765355525
+    "unix_timestamp": 1765356539
   }
 ]
