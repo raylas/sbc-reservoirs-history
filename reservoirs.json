@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 598.01,
     "unit": "ft",
-    "time": 1765566900,
-    "last_time": "2025-12-12 11:15:00",
-    "last_time_z": "2025-12-12T19:15:00+0000",
-    "unix_timestamp": 1765571459
+    "time": 1765570500,
+    "last_time": "2025-12-12 12:15:00",
+    "last_time_z": "2025-12-12T20:15:00+0000",
+    "unix_timestamp": 1765572327
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 736.96,
     "unit": "ft",
-    "time": 1765570443,
-    "last_time": "2025-12-12 12:14:03",
-    "last_time_z": "2025-12-12T20:14:03+0000",
-    "unix_timestamp": 1765571459
+    "time": 1765571643,
+    "last_time": "2025-12-12 12:34:03",
+    "last_time_z": "2025-12-12T20:34:03+0000",
+    "unix_timestamp": 1765572327
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,386.45",
+    "last_value": "1,386.44",
     "unit": "ft",
-    "time": 1765569600,
-    "last_time": "2025-12-12 12:00:00",
-    "last_time_z": "2025-12-12T20:00:00+0000",
-    "unix_timestamp": 1765571459
+    "time": 1765570500,
+    "last_time": "2025-12-12 12:15:00",
+    "last_time_z": "2025-12-12T20:15:00+0000",
+    "unix_timestamp": 1765572327
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1765570853,
     "last_time": "2025-12-12 12:20:53",
     "last_time_z": "2025-12-12T20:20:53+0000",
-    "unix_timestamp": 1765571459
+    "unix_timestamp": 1765572327
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1765569600,
     "last_time": "2025-12-12 12:00:00",
     "last_time_z": "2025-12-12T20:00:00+0000",
-    "unix_timestamp": 1765571459
+    "unix_timestamp": 1765572327
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1765571198,
     "last_time": "2025-12-12 12:26:38",
     "last_time_z": "2025-12-12T20:26:38+0000",
-    "unix_timestamp": 1765571459
+    "unix_timestamp": 1765572327
   }
 ]
