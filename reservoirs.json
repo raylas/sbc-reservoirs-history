@@ -15,12 +15,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 598.09,
+    "last_value": 598.1,
     "unit": "ft",
-    "time": 1765988100,
-    "last_time": "2025-12-17 08:15:00",
-    "last_time_z": "2025-12-17T16:15:00+0000",
-    "unix_timestamp": 1765992638
+    "time": 1765991700,
+    "last_time": "2025-12-17 09:15:00",
+    "last_time_z": "2025-12-17T17:15:00+0000",
+    "unix_timestamp": 1765993611
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 736.81,
     "unit": "ft",
-    "time": 1765991646,
-    "last_time": "2025-12-17 09:14:06",
-    "last_time_z": "2025-12-17T17:14:06+0000",
-    "unix_timestamp": 1765992638
+    "time": 1765992846,
+    "last_time": "2025-12-17 09:34:06",
+    "last_time_z": "2025-12-17T17:34:06+0000",
+    "unix_timestamp": 1765993611
   },
   {
     "name": "Gibraltar Reservoir",
@@ -63,10 +63,10 @@
     "status": 1,
     "last_value": "1,386.81",
     "unit": "ft",
-    "time": 1765990800,
-    "last_time": "2025-12-17 09:00:00",
-    "last_time_z": "2025-12-17T17:00:00+0000",
-    "unix_timestamp": 1765992638
+    "time": 1765991700,
+    "last_time": "2025-12-17 09:15:00",
+    "last_time_z": "2025-12-17T17:15:00+0000",
+    "unix_timestamp": 1765993611
   },
   {
     "name": "Jameson Reservoir",
@@ -89,7 +89,7 @@
     "time": 1765990621,
     "last_time": "2025-12-17 08:57:01",
     "last_time_z": "2025-12-17T16:57:01+0000",
-    "unix_timestamp": 1765992638
+    "unix_timestamp": 1765993611
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1765990800,
     "last_time": "2025-12-17 09:00:00",
     "last_time_z": "2025-12-17T17:00:00+0000",
-    "unix_timestamp": 1765992638
+    "unix_timestamp": 1765993611
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -135,6 +135,6 @@
     "time": 1765992398,
     "last_time": "2025-12-17 09:26:38",
     "last_time_z": "2025-12-17T17:26:38+0000",
-    "unix_timestamp": 1765992638
+    "unix_timestamp": 1765993611
   }
 ]
