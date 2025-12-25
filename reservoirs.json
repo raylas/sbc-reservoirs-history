@@ -20,7 +20,7 @@
     "time": 1766650500,
     "last_time": "2025-12-25 00:15:00",
     "last_time_z": "2025-12-25T08:15:00+0000",
-    "unix_timestamp": 1766652515
+    "unix_timestamp": 1766653685
   },
   {
     "name": "Cachuma Reservoir",
@@ -43,7 +43,7 @@
     "time": 1766651651,
     "last_time": "2025-12-25 00:34:11",
     "last_time_z": "2025-12-25T08:34:11+0000",
-    "unix_timestamp": 1766652515
+    "unix_timestamp": 1766653685
   },
   {
     "name": "Getty Basin",
@@ -66,7 +66,7 @@
     "time": 1766632252,
     "last_time": "2025-12-24 19:10:52",
     "last_time_z": "2025-12-25T03:10:52+0000",
-    "unix_timestamp": 1766652515
+    "unix_timestamp": 1766653685
   },
   {
     "name": "Gibraltar Reservoir",
@@ -86,10 +86,10 @@
     "status": 1,
     "last_value": "1,400.38",
     "unit": "ft",
-    "time": 1766650500,
-    "last_time": "2025-12-25 00:15:00",
-    "last_time_z": "2025-12-25T08:15:00+0000",
-    "unix_timestamp": 1766652515
+    "time": 1766652300,
+    "last_time": "2025-12-25 00:45:00",
+    "last_time_z": "2025-12-25T08:45:00+0000",
+    "unix_timestamp": 1766653685
   },
   {
     "name": "Jameson Reservoir",
@@ -112,7 +112,7 @@
     "time": 1766649223,
     "last_time": "2025-12-24 23:53:43",
     "last_time_z": "2025-12-25T07:53:43+0000",
-    "unix_timestamp": 1766652515
+    "unix_timestamp": 1766653685
   },
   {
     "name": "Lake Casitas",
@@ -130,12 +130,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": 559.77,
+    "last_value": 559.78,
     "unit": "ft",
-    "time": 1766649600,
-    "last_time": "2025-12-25 00:00:00",
-    "last_time_z": "2025-12-25T08:00:00+0000",
-    "unix_timestamp": 1766652515
+    "time": 1766653200,
+    "last_time": "2025-12-25 01:00:00",
+    "last_time_z": "2025-12-25T09:00:00+0000",
+    "unix_timestamp": 1766653685
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -153,11 +153,11 @@
     "sensor_class": 94,
     "type": "Reservoir Elevation",
     "status": 1,
-    "last_value": 510.85,
+    "last_value": 510.84,
     "unit": "ft",
-    "time": 1766651198,
-    "last_time": "2025-12-25 00:26:38",
-    "last_time_z": "2025-12-25T08:26:38+0000",
-    "unix_timestamp": 1766652515
+    "time": 1766652998,
+    "last_time": "2025-12-25 00:56:38",
+    "last_time_z": "2025-12-25T08:56:38+0000",
+    "unix_timestamp": 1766653685
   }
 ]
