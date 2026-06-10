@@ -17,10 +17,10 @@
     "status": 1,
     "last_value": 599.85,
     "unit": "ft",
-    "time": 1781046900,
-    "last_time": "2026-06-09 16:15:00",
-    "last_time_z": "2026-06-09T23:15:00+0000",
-    "unix_timestamp": 1781053538
+    "time": 1781050500,
+    "last_time": "2026-06-09 17:15:00",
+    "last_time_z": "2026-06-10T00:15:00+0000",
+    "unix_timestamp": 1781057074
   },
   {
     "name": "Cachuma Reservoir",
@@ -40,10 +40,10 @@
     "status": 1,
     "last_value": 749.93,
     "unit": "ft",
-    "time": 1781052389,
-    "last_time": "2026-06-09 17:46:29",
-    "last_time_z": "2026-06-10T00:46:29+0000",
-    "unix_timestamp": 1781053538
+    "time": 1781055989,
+    "last_time": "2026-06-09 18:46:29",
+    "last_time_z": "2026-06-10T01:46:29+0000",
+    "unix_timestamp": 1781057074
   },
   {
     "name": "Gibraltar Reservoir",
@@ -61,12 +61,12 @@
     "sensor_class": 94,
     "type": "Reservoir Level",
     "status": 1,
-    "last_value": "1,398.24",
+    "last_value": "1,398.22",
     "unit": "ft",
-    "time": 1781048700,
-    "last_time": "2026-06-09 16:45:00",
-    "last_time_z": "2026-06-09T23:45:00+0000",
-    "unix_timestamp": 1781053538
+    "time": 1781053200,
+    "last_time": "2026-06-09 18:00:00",
+    "last_time_z": "2026-06-10T01:00:00+0000",
+    "unix_timestamp": 1781057074
   },
   {
     "name": "Jameson Reservoir",
@@ -86,10 +86,10 @@
     "status": 1,
     "last_value": "2,223.50",
     "unit": "ft",
-    "time": 1781051598,
-    "last_time": "2026-06-09 17:33:18",
-    "last_time_z": "2026-06-10T00:33:18+0000",
-    "unix_timestamp": 1781053538
+    "time": 1781055217,
+    "last_time": "2026-06-09 18:33:37",
+    "last_time_z": "2026-06-10T01:33:37+0000",
+    "unix_timestamp": 1781057074
   },
   {
     "name": "Lake Casitas",
@@ -112,7 +112,7 @@
     "time": 1781053200,
     "last_time": "2026-06-09 18:00:00",
     "last_time_z": "2026-06-10T01:00:00+0000",
-    "unix_timestamp": 1781053538
+    "unix_timestamp": 1781057074
   },
   {
     "name": "Lopez Dam (SLOC)",
@@ -130,11 +130,11 @@
     "sensor_class": 94,
     "type": "Reservoir Elevation",
     "status": 1,
-    "last_value": 514.72,
+    "last_value": 514.71,
     "unit": "ft",
-    "time": 1781053027,
-    "last_time": "2026-06-09 17:57:07",
-    "last_time_z": "2026-06-10T00:57:07+0000",
-    "unix_timestamp": 1781053538
+    "time": 1781056627,
+    "last_time": "2026-06-09 18:57:07",
+    "last_time_z": "2026-06-10T01:57:07+0000",
+    "unix_timestamp": 1781057074
   }
 ]
